@@ -1,0 +1,8 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Obsidian local UI state (not shared config)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
