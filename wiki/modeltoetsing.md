@@ -15,6 +15,7 @@ Onderhoud per mechanisme uit de bronnen: welke bronnen het noemen, waar het in h
 
 | Mechanisme (concept) | Bronnen | Onderdeel in model | Past |
 |---|---|---|---|
+| [[balanceringsmarkt]] | [[0003-marktinrichting-hernieuwbare-energie-netbalans]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[netcongestie]] | _(vul bij ingest)_ | _?_ | _?_ |
 | [[netkosten-transporttarieven]] | | _?_ | _?_ |
 | [[salderen]] | | _?_ | _?_ |
@@ -38,4 +39,5 @@ _(mechanismen die bronnen noemen maar die in het getoetste model geen plek lijke
 _(modelonderdelen die in géén verwerkte bron voorkomen — vul aan tijdens lint)_
 
 ## Openstaande vragen
+- **Geen model aanwezig.** `raw/modellen/` is nog leeg — het model van Matthijs (of een ander model) moet nog aangeleverd worden voor de toetsingsfunctie (kolom 1) daadwerkelijk kan werken. Tot die tijd loggen we hier alleen welke mechanismen uit bronnen komen.
 - _(tegenstrijdigheden tussen bronnen, kandidaten voor gerichte search, vervolgvragen)_

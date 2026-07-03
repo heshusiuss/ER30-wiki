@@ -9,9 +9,9 @@ Lees deze pagina eerst bij een query. Boven: gegenereerde wiki-pagina's (vullen 
 - [[modeltoetsing]] — observaties toetsen aan modellen + blinde vlekken
 - [[taxonomie]] — thema-woordenlijst
 - [[playbooks]] — kant-en-klare prompts & Dataview-queries
-- sources/ — _(voorbeeld + template; vult tijdens ingest)_
-- entities/ — ACM, TNO, Consumentenbond, PBL, TenneT, Enexis, Eneco, Vattenfall, ministerie/politiek, Noodfonds Energie _(stubs)_
-- concepts/ — netcongestie, netkosten/transporttarieven, salderen, terugleververgoeding, dynamische prijzen, energiebelasting, ETS2, warmtenet-tarieven, curtailment, energiearmoede, leveringszekerheid _(stubs)_
+- sources/ — [[0003-marktinrichting-hernieuwbare-energie-netbalans]] _(verwerkt)_; verder template + voorbeeldstub
+- entities/ — ACM, TNO, Consumentenbond, PBL, TenneT, Enexis, Eneco, Vattenfall, ministerie/politiek, Noodfonds Energie, Energie-Nederland _(TenneT/Energie-Nederland deels ingevuld, rest stub)_
+- concepts/ — netcongestie, netkosten/transporttarieven, salderen, terugleververgoeding, dynamische prijzen, energiebelasting, ETS2, warmtenet-tarieven, curtailment, energiearmoede, leveringszekerheid, balanceringsmarkt _(balanceringsmarkt + curtailment deels ingevuld, rest stub)_
 
 
 ## Ingest-backlog (114 bronnen)
@@ -21,7 +21,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 
 ### 1. Open – direct te clippen  (52)
 
-- [ ] **  3** · ESB · _Marktinrichting_ — Met juiste marktinrichting kan hernieuwbare energie bijdragen aan netbalans - ESB  <https://esb.nu/met-juiste-marktinrichting-kan-hernieuwbare-energie-bijdragen-aan-netbalans>
+- [x] **  3** · ESB · _Marktinrichting_ — Met juiste marktinrichting kan hernieuwbare energie bijdragen aan netbalans - ESB → [[0003-marktinrichting-hernieuwbare-energie-netbalans]]
 - [ ] **  9** · BNR · _Afhankelijkheid / import_ — Extreme kou zorgt voor gigantische stijging gasprijs  <https://www.bnr.nl/nieuws/economie/10592143/extreme-kou-zorgt-voor-gigantische-stijging-gasprijs>
 - [ ] ** 16** · BNR · _Contracten & arrangementen_ — Energievoorwaarden nog steeds onvoldoende helder, zegt Consumentenbond  <https://www.bnr.nl/nieuws/nieuws-politiek/10591552/energievoorwaarden-nog-steeds-onvoldoende-helder-zegt-consumentenbond>
 - [ ] ** 18** · BNR · _Overzicht / jaaroverzicht_ — Wonen wordt betaalbaarder, maar energierekening omhoog: dit verandert er dit jaar  <https://www.bnr.nl/nieuws/nieuws-politiek/10591249/wonen-wordt-betaalbaarder-maar-energierekening-omhoog-dit-verandert-er-dit-jaar>

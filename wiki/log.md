@@ -8,3 +8,6 @@ Elke regel begint met `## [YYYY-MM-DD] <operatie> | <titel>`. Zo werkt:
 ## [2026-06-08] setup | fetch_open_sources.py + requirements.txt toegevoegd; README bijgewerkt met drie-tiers bulk-aanpak
 
 ## [2026-06-08] refactor | wiki gedecentraliseerd; model-matthijs.md → modeltoetsing.md (analytische lens i.p.v. organisatiecentrum); raw/schema-matthijs → raw/modellen; CLAUDE.md en README herschreven
+
+## [2026-07-03] setup | omgeving + 23/52 open bronnen opgehaald via fetch_open_sources.py (rest geblokkeerd door BNR-botdetectie); eerste git-commit van het skelet
+## [2026-07-03] ingest | Bron 3 (ESB, marktinrichting/netbalans) verwerkt; nieuw concept [[balanceringsmarkt]] aangemaakt, [[curtailment]] aangevuld, entity [[energie-nederland]] aangemaakt, [[tennet]] aangevuld, modeltoetsing.md + overview.md bijgewerkt. Blinde vlek genoteerd: raw/modellen/ is nog leeg, toetsingsfunctie kan nog niet echt werken.
