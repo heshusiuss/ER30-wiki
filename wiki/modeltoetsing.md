@@ -17,7 +17,7 @@ Onderhoud per mechanisme uit de bronnen: welke bronnen het noemen, waar het in h
 |---|---|---|---|
 | [[balanceringsmarkt]] | [[0003-marktinrichting-hernieuwbare-energie-netbalans]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[netcongestie]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]], [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
-| [[netkosten-transporttarieven]] | [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]], [[0029-acm-energierekening-stijgt-beter-contract]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[netkosten-transporttarieven]] | [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]], [[0029-acm-energierekening-stijgt-beter-contract]], [[0096-energienota-omhoog-door-dure-aanleg-stroomnet-op-zee-zo-comp]], [[0036-people-like-cheap-energy-the-bagel-shop-saving-money-and-emi]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[salderen]] | [[0088-betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[terugleververgoeding]] | [[0088-betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[dynamische-prijzen]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
@@ -35,6 +35,7 @@ Onderhoud per mechanisme uit de bronnen: welke bronnen het noemen, waar het in h
 | [[energiearmoede]] | [[0098-kosten-stroomnet-verdrievoudigen-2040]], [[0081-compensatie-hoge-energieprijzen-regeling-voor-huishoudens-me]], [[0102-aanvraag-noodfonds-energie-te-lastig-voor-veel-bredanaars-he]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[energielabel]] | [[0067-vereniging-eigen-huis-verbeteren-energielabel-voor-huiseigen]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[toegankelijkheid-regelingen]] | [[0102-aanvraag-noodfonds-energie-te-lastig-voor-veel-bredanaars-he]], [[0081-compensatie-hoge-energieprijzen-regeling-voor-huishoudens-me]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[macro-effecten-elektriciteitsprijzen]] | [[0021-effecten-elektriciteitsprijzen]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 
 _(Voeg rijen toe naarmate nieuwe mechanismen uit bronnen komen.)_
 
@@ -49,6 +50,7 @@ _(mechanismen die bronnen noemen maar die in het getoetste model geen plek lijke
 - Onderscheid terugleverkosten vs. terugleververgoeding ([[terugleververgoeding]], via [[0088-betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-]]) — publiek (zie reacties onder de bron) worden beide vaak door elkaar gehaald; een begrijpelijkheidsvraagstuk dat los staat van marktwerking maar wel de framing van "oneerlijke kosten" voedt.
 - Uitvoeringstoegankelijkheid van regelingen ([[toegankelijkheid-regelingen]], via [[0102-aanvraag-noodfonds-energie-te-lastig-voor-veel-bredanaars-he]] en [[0081-compensatie-hoge-energieprijzen-regeling-voor-huishoudens-me]]) — of een huishouden een compensatieregeling daadwerkelijk verzilvert, hangt af van aanvraagprocedure, digitale vaardigheid, taal en aansluitingstype; dit uitvoeringsniveau ontbreekt structureel in marktinrichtings-/prijsmodellen.
 - Energielabel als financieel instrument ([[energielabel]], via [[0067-vereniging-eigen-huis-verbeteren-energielabel-voor-huiseigen]]) — het label werkt door in woningwaarde en hypotheekvoorwaarden, een indirecte route naar woonlasten die los staat van het directe energieverbruik en tot nu toe in geen ander model-thema is ondergebracht.
+- Macro-economische terugkoppeling van elektriciteitsprijzen ([[macro-effecten-elektriciteitsprijzen]], via [[0021-effecten-elektriciteitsprijzen]]) — effecten op inflatie, werkloosheid en industriële productie liggen op een ander schaalniveau dan de huishoudrekening; onduidelijk of een marktinrichtings-/netbalansmodel dit soort brede economische terugkoppeling meeneemt.
 
 ### B. In het model, niet in bronnen
 _(modelonderdelen die in géén verwerkte bron voorkomen — vul aan tijdens lint)_
