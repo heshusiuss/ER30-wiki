@@ -8,7 +8,7 @@
 Verbindt prijzen, netkosten, woningkwaliteit en compensatieregelingen; centrale rechtvaardigheidsvraag.
 
 ## Bronnen die dit noemen
-- _(in te vullen bij ingest)_
+- [[0098-kosten-stroomnet-verdrievoudigen-2040]] — ambtenaren waarschuwen expliciet dat de verwachte stijging van netbeheerkosten (van €400 naar €1.100/jaar in 2040) voor gezinnen met een hoge energierekening en laag inkomen onbetaalbaar dreigt te worden.
 
 ## Zie ook
-- [[energiebelasting]] · [[modeltoetsing]]
+- [[energiebelasting]] · [[netkosten-transporttarieven]] · [[modeltoetsing]]

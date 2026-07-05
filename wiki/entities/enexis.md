@@ -6,7 +6,7 @@
 > Stub — uitbreiden tijdens ingest; alleen claims uit verwerkte bronnen, met [[wikilink]].
 
 ## Wat bronnen over deze partij zeggen
-- _(in te vullen)_
+- [[0034-acm-akkoord-nettarieven-2027-2031]] — als regionale netbeheerder direct betrokken bij de uitvoering van het nieuwe ACM-akkoord over nettarieven 2027-2031.
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]

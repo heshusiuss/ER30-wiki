@@ -16,16 +16,16 @@ Onderhoud per mechanisme uit de bronnen: welke bronnen het noemen, waar het in h
 | Mechanisme (concept) | Bronnen | Onderdeel in model | Past |
 |---|---|---|---|
 | [[balanceringsmarkt]] | [[0003-marktinrichting-hernieuwbare-energie-netbalans]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
-| [[netcongestie]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
-| [[netkosten-transporttarieven]] | | _?_ | _?_ |
+| [[netcongestie]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]], [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[netkosten-transporttarieven]] | [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[salderen]] | | _?_ | _?_ |
 | [[terugleververgoeding]] | | _?_ | _?_ |
-| [[dynamische-prijzen]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[dynamische-prijzen]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[energiebelasting]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[ets2-beprijzing]] | [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[warmtenet-tarieven]] | | _?_ | _?_ |
 | [[curtailment]] | [[0003-marktinrichting-hernieuwbare-energie-netbalans]], [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
-| [[energiearmoede]] | | _?_ | _?_ |
+| [[energiearmoede]] | [[0098-kosten-stroomnet-verdrievoudigen-2040]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[leveringszekerheid]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[capaciteitsmarkt]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[co2-beprijzingstekort]] | [[0046-analyse-beprijzing-broeikasgasemissies-nederland]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |

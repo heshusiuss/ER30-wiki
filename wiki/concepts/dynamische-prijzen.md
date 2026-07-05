@@ -9,6 +9,7 @@ Kunnen pieken en dalen (zelfs negatieve prijzen) doorgeven; raken gedrag, batter
 
 ## Bronnen die dit noemen
 - [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] — dynamische contracten kunnen bijdragen aan efficiënter gebruik van hernieuwbare elektriciteit, maar zijn voor individuele huishoudens vooralsnog meestal niet financieel aantrekkelijk; stimulering is nodig om dat te veranderen.
+- [[0035-nettarieven-tijdsafhankelijk-piekmomenten]] — expliciet onderscheid met [[netkosten-transporttarieven]]: dynamische prijzen zijn de uurlijkse leveringsprijs (leverancier), tijdsafhankelijke nettarieven zijn vaste piek/dal-tariefblokken (netbeheerder) — twee losse, optelbare mechanismen op dezelfde rekening.
 
 ## Zie ook
-- [[terugleververgoeding]] · [[curtailment]] · [[capaciteitsmarkt]] · [[modeltoetsing]]
+- [[terugleververgoeding]] · [[curtailment]] · [[capaciteitsmarkt]] · [[netkosten-transporttarieven]] · [[modeltoetsing]]
