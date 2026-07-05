@@ -9,9 +9,9 @@ Lees deze pagina eerst bij een query. Boven: gegenereerde wiki-pagina's (vullen 
 - [[modeltoetsing]] — observaties toetsen aan modellen + blinde vlekken
 - [[taxonomie]] — thema-woordenlijst
 - [[playbooks]] — kant-en-klare prompts & Dataview-queries
-- sources/ — [[0003-marktinrichting-hernieuwbare-energie-netbalans]] _(verwerkt)_; verder template + voorbeeldstub
-- entities/ — ACM, TNO, Consumentenbond, PBL, TenneT, Enexis, Eneco, Vattenfall, ministerie/politiek, Noodfonds Energie, Energie-Nederland _(TenneT/Energie-Nederland deels ingevuld, rest stub)_
-- concepts/ — netcongestie, netkosten/transporttarieven, salderen, terugleververgoeding, dynamische prijzen, energiebelasting, ETS2, warmtenet-tarieven, curtailment, energiearmoede, leveringszekerheid, balanceringsmarkt _(balanceringsmarkt + curtailment deels ingevuld, rest stub)_
+- sources/ — [[0003-marktinrichting-hernieuwbare-energie-netbalans]], [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0046-analyse-beprijzing-broeikasgasemissies-nederland]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] _(verwerkt)_; verder template + voorbeeldstub
+- entities/ — ACM, TNO, Consumentenbond, PBL, TenneT, Enexis, Eneco, Vattenfall, ministerie/politiek, Noodfonds Energie, Energie-Nederland _(PBL/TNO/TenneT/ministerie-politiek/Energie-Nederland deels ingevuld, rest stub)_
+- concepts/ — netcongestie, netkosten/transporttarieven, salderen, terugleververgoeding, dynamische prijzen, energiebelasting, ETS2, warmtenet-tarieven, curtailment, energiearmoede, leveringszekerheid, balanceringsmarkt, capaciteitsmarkt, co2-beprijzingstekort, schaarste-allocatie-duurzame-energie _(balanceringsmarkt/curtailment/dynamische-prijzen/leveringszekerheid/netcongestie/ets2-beprijzing/energiebelasting/capaciteitsmarkt/co2-beprijzingstekort/schaarste-allocatie-duurzame-energie deels-tot-volledig ingevuld, rest stub)_
 
 
 ## Ingest-backlog (114 bronnen)
@@ -25,7 +25,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [ ] **  9** · BNR · _Afhankelijkheid / import_ — Extreme kou zorgt voor gigantische stijging gasprijs  <https://www.bnr.nl/nieuws/economie/10592143/extreme-kou-zorgt-voor-gigantische-stijging-gasprijs>
 - [ ] ** 16** · BNR · _Contracten & arrangementen_ — Energievoorwaarden nog steeds onvoldoende helder, zegt Consumentenbond  <https://www.bnr.nl/nieuws/nieuws-politiek/10591552/energievoorwaarden-nog-steeds-onvoldoende-helder-zegt-consumentenbond>
 - [ ] ** 18** · BNR · _Overzicht / jaaroverzicht_ — Wonen wordt betaalbaarder, maar energierekening omhoog: dit verandert er dit jaar  <https://www.bnr.nl/nieuws/nieuws-politiek/10591249/wonen-wordt-betaalbaarder-maar-energierekening-omhoog-dit-verandert-er-dit-jaar>
-- [ ] ** 20** · ESB · _Marktinrichting_ — Nederland loopt achter met vormgeven nieuwe energiemarkt  <https://esb.nu/nederland-loopt-achter-met-vormgeven-nieuwe-energiemarkt/>
+- [x] ** 20** · ESB · _Marktinrichting_ — Nederland loopt achter met vormgeven nieuwe energiemarkt → [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]]
 - [ ] ** 21** · ESB · _Afhankelijkheid / import_ — Effecten elektriciteitsprijzen  <https://esb.nu/effecten-elektriciteitsprijzen/>
 - [ ] ** 23** · BNR · _Vergoedingen & tarieven_ — Na beperking accijnskorting: prijzen aan de pomp met zo’n 5,5 procent omhoog  <https://www.bnr.nl/nieuws/economie/10591062/na-beperking-accijnskorting-prijzen-aan-de-pomp-met-zon-5-5-procent-omhoog>
 - [ ] ** 29** · ACM · _Contracten & arrangementen_ — ACM: Energierekening stijgt, huishoudens kunnen besparen met beter contract  <https://www.acm.nl/nl/publicaties/acm-energierekening-stijgt-huishoudens-kunnen-besparen-met-beter-contract>
@@ -37,7 +37,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [ ] ** 39** · Eneco · _Contracten & arrangementen_ — Loyaliteitesprogramma  <https://www.eneco.nl/duurzame-energie/happypower/>
 - [ ] ** 40** · Energievergelijker.nl · _Contracten & arrangementen_ — Overstapkosten, opzegtermijn  <https://www.energievergelijker.nl/overstappen-energie/boetevrij-overstappen>
 - [ ] ** 45** · BNR · _Netkosten & transporttarieven_ — Terugleveren zonnestroom binnenkort amper rendabel  <https://bnr.nl/nieuws/duurzaamheid/10593620/terugleveren-zonnestroom-binnenkort-amper-rendabel>
-- [ ] ** 46** · PBL · _Marktinrichting_ — Analyse van de beprijzing van broeikasgasemissies in Nederland  <https://www.pbl.nl/publicaties/klimaatverandering-in-de-prijzen-in-2024>
+- [x] ** 46** · PBL · _Marktinrichting_ — Analyse van de beprijzing van broeikasgasemissies in Nederland → [[0046-analyse-beprijzing-broeikasgasemissies-nederland]]
 - [ ] ** 47** · BNR · _Compensatie_ — Zeeuws-Vlaanderen eist miljarden als kerncentrales daar worden gebouwd  <https://www.bnr.nl/nieuws/nieuws-politiek/10589977/zeeuws-vlaanderen-eist-miljarden-als-kerncentrales-daar-worden-gebouwd>
 - [ ] ** 48** · BNR · _Internationaal_ — Nederlandse industrie roept op om energieprijs gelijk te trekken met buurlanden  <https://www.bnr.nl/nieuws/economie/10589856/nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden>
 - [ ] ** 50** · BNR · _Consumentengedrag_ — Mogelijk meer betalen bij zuinig gebruik warmtenet  <https://www.bnr.nl/nieuws/duurzaamheid/10588923/mogelijk-meer-betalen-bij-zuinig-gebruik-warmtenet>
@@ -45,7 +45,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [ ] ** 54** · The Guardian · _Internationaal_ — Germany accused of ditching climate targets as it scraps renewables mandate  <https://www.theguardian.com/environment/2026/feb/25/germany-accused-ditching-climate-targets-scraps-renewables-mandate>
 - [ ] ** 56** · BNR · _Netkosten & transporttarieven_ — Energierekening stijgt: huishoudens betalen in 2026 ruim 3 procent meer  <https://www.bnr.nl/nieuws/economie/10588368/energierekening-stijgt-huishoudens-betalen-in-2026-ruim-3-procent-meer>
 - [ ] ** 57** · BNR · _Beprijzing (belasting/heffing)_ — Benzine wordt duurder, maar hogere vermogenstaks gaat van tafel  <https://www.bnr.nl/nieuws/nieuws-politiek/10588357/benzine-wordt-5-cent-duurder-door-accijnsverhoging-meer-geld-naar-openbaar-vervoer>
-- [ ] ** 58** · ESB · _Marktinrichting_ — Richt beleid op efficiënt gebruik schaarse energie  <https://esb.nu/richt-beleid-op-efficient-gebruik-schaarse-energie/>
+- [x] ** 58** · ESB · _Marktinrichting_ — Richt beleid op efficiënt gebruik schaarse energie → [[0058-richt-beleid-efficient-gebruik-schaarse-energie]]
 - [ ] ** 60** · BNR · _Contracten & arrangementen_ — Netbeheerders te traag met flexcontracten, toezichthouder eist verbeterplan  <https://www.bnr.nl/nieuws/economie/10588300/netbeheerders-te-traag-met-flexcontracten-toezichthouder-eist-verbeterplan>
 - [ ] ** 66** · BNR · _Begrijpelijkheid & toegankelijkheid_ — Consumenten vinden vergelijken energiecontracten moeilijk  <https://www.bnr.nl/nieuws/duurzaamheid/10587886/consumenten-vinden-vergelijken-energiecontracten-moeilijk>
 - [ ] ** 67** · NOS · _Begrijpelijkheid & toegankelijkheid_ — Vereniging Eigen Huis: 'Verbeteren energielabel voor huiseigenaren te onduidelijk  <https://nos.nl/collectie/13871/artikel/2590911-vereniging-eigen-huis-verbeteren-energielabel-voor-huiseigenaren-te-onduidelijk>

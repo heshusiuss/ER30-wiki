@@ -16,17 +16,20 @@ Onderhoud per mechanisme uit de bronnen: welke bronnen het noemen, waar het in h
 | Mechanisme (concept) | Bronnen | Onderdeel in model | Past |
 |---|---|---|---|
 | [[balanceringsmarkt]] | [[0003-marktinrichting-hernieuwbare-energie-netbalans]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
-| [[netcongestie]] | _(vul bij ingest)_ | _?_ | _?_ |
+| [[netcongestie]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[netkosten-transporttarieven]] | | _?_ | _?_ |
 | [[salderen]] | | _?_ | _?_ |
 | [[terugleververgoeding]] | | _?_ | _?_ |
-| [[dynamische-prijzen]] | | _?_ | _?_ |
-| [[energiebelasting]] | | _?_ | _?_ |
-| [[ets2-beprijzing]] | | _?_ | _?_ |
+| [[dynamische-prijzen]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[energiebelasting]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[ets2-beprijzing]] | [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[warmtenet-tarieven]] | | _?_ | _?_ |
-| [[curtailment]] | | _?_ | _?_ |
+| [[curtailment]] | [[0003-marktinrichting-hernieuwbare-energie-netbalans]], [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[energiearmoede]] | | _?_ | _?_ |
-| [[leveringszekerheid]] | | _?_ | _?_ |
+| [[leveringszekerheid]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[capaciteitsmarkt]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[co2-beprijzingstekort]] | [[0046-analyse-beprijzing-broeikasgasemissies-nederland]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[schaarste-allocatie-duurzame-energie]] | [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 
 _(Voeg rijen toe naarmate nieuwe mechanismen uit bronnen komen.)_
 
@@ -34,6 +37,7 @@ _(Voeg rijen toe naarmate nieuwe mechanismen uit bronnen komen.)_
 
 ### A. In bronnen, niet in het model
 _(mechanismen die bronnen noemen maar die in het getoetste model geen plek lijken te hebben — vul aan tijdens ingest/lint)_
+- Industriepolitieke allocatie van schaarse duurzame energie ([[schaarste-allocatie-duurzame-energie]]) — een keuze over *wie* toegang krijgt tot schaarse energie, los van marktprijs; onduidelijk of dit type mechanisme in een marktinrichtings-/netbalansmodel als dat van Matthijs een plek heeft.
 
 ### B. In het model, niet in bronnen
 _(modelonderdelen die in géén verwerkte bron voorkomen — vul aan tijdens lint)_

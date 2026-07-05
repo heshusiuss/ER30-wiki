@@ -8,7 +8,7 @@
 Kunnen pieken en dalen (zelfs negatieve prijzen) doorgeven; raken gedrag, batterijen en terugleveren.
 
 ## Bronnen die dit noemen
-- _(in te vullen bij ingest)_
+- [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] — dynamische contracten kunnen bijdragen aan efficiënter gebruik van hernieuwbare elektriciteit, maar zijn voor individuele huishoudens vooralsnog meestal niet financieel aantrekkelijk; stimulering is nodig om dat te veranderen.
 
 ## Zie ook
-- [[terugleververgoeding]] · [[curtailment]] · [[modeltoetsing]]
+- [[terugleververgoeding]] · [[curtailment]] · [[capaciteitsmarkt]] · [[modeltoetsing]]

@@ -9,6 +9,7 @@ Raakt de businesscase van duurzame opwek en hangt samen met netcongestie en dyna
 
 ## Bronnen die dit noemen
 - [[0003-marktinrichting-hernieuwbare-energie-netbalans]] — curtailment als asymmetrisch, eenzijdig aanpassingsmechanisme; relevant voor deelname aan de [[balanceringsmarkt]].
+- [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] — waarschuwt dat het uitsluitend subsidiëren van aanbod (zonder gerichte vraagsturing) tot meer curtailment en hogere kosten leidt; pleit voor gerichte vraagstimulering als alternatief.
 
 ## Zie ook
-- [[netcongestie]] · [[dynamische-prijzen]] · [[balanceringsmarkt]] · [[modeltoetsing]]
+- [[netcongestie]] · [[dynamische-prijzen]] · [[balanceringsmarkt]] · [[capaciteitsmarkt]] · [[modeltoetsing]]

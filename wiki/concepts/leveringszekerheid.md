@@ -8,7 +8,7 @@
 Hangt samen met gasopslag, importafhankelijkheid en netcapaciteit.
 
 ## Bronnen die dit noemen
-- _(in te vullen bij ingest)_
+- [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] — regelbaar vermogen blijft cruciaal om leveringszekerheid te waarborgen tijdens *Dunkelflauten* (langere periodes zonder zon/wind), ook bij meer batterijopslag, vraagsturing en interconnectie. De businesscase van regelbaar vermogen staat onder druk; een [[capaciteitsmarkt]] wordt genoemd als mogelijke oplossing.
 
 ## Zie ook
-- [[netcongestie]] · [[modeltoetsing]]
+- [[netcongestie]] · [[capaciteitsmarkt]] · [[balanceringsmarkt]] · [[modeltoetsing]]

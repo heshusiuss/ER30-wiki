@@ -8,7 +8,7 @@
 Werkt door in brandstof- en energieprijzen; er is discussie over prijspieken en demping.
 
 ## Bronnen die dit noemen
-- _(in te vullen bij ingest)_
+- [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] — gaat over het bredere EU ETS en andere beprijzingsinstrumenten samen, niet specifiek over ETS2; wel nauw verwant aan het [[co2-beprijzingstekort]] dat daar wordt vastgesteld.
 
 ## Zie ook
-- [[energiebelasting]] · [[modeltoetsing]]
+- [[energiebelasting]] · [[co2-beprijzingstekort]] · [[modeltoetsing]]
