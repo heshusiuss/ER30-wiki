@@ -9,6 +9,7 @@ Werkt door in brandstof- en energieprijzen; er is discussie over prijspieken en 
 
 ## Bronnen die dit noemen
 - [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] — gaat over het bredere EU ETS en andere beprijzingsinstrumenten samen, niet specifiek over ETS2; wel nauw verwant aan het [[co2-beprijzingstekort]] dat daar wordt vastgesteld.
+- [[0029-acm-energierekening-stijgt-beter-contract]] — ETS2 en de (nog niet ingegane) bijmengverplichting voor groen gas kunnen huishoudens samen ca. €14/maand extra kosten voor gaslevering opleveren.
 
 ## Zie ook
 - [[energiebelasting]] · [[co2-beprijzingstekort]] · [[modeltoetsing]]

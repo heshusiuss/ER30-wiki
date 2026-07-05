@@ -17,12 +17,12 @@ Onderhoud per mechanisme uit de bronnen: welke bronnen het noemen, waar het in h
 |---|---|---|---|
 | [[balanceringsmarkt]] | [[0003-marktinrichting-hernieuwbare-energie-netbalans]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[netcongestie]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]], [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
-| [[netkosten-transporttarieven]] | [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[netkosten-transporttarieven]] | [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]], [[0029-acm-energierekening-stijgt-beter-contract]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[salderen]] | | _?_ | _?_ |
 | [[terugleververgoeding]] | | _?_ | _?_ |
 | [[dynamische-prijzen]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[energiebelasting]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
-| [[ets2-beprijzing]] | [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[ets2-beprijzing]] | [[0046-analyse-beprijzing-broeikasgasemissies-nederland]], [[0029-acm-energierekening-stijgt-beter-contract]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[warmtenet-tarieven]] | | _?_ | _?_ |
 | [[curtailment]] | [[0003-marktinrichting-hernieuwbare-energie-netbalans]], [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[energiearmoede]] | [[0098-kosten-stroomnet-verdrievoudigen-2040]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
@@ -30,6 +30,7 @@ Onderhoud per mechanisme uit de bronnen: welke bronnen het noemen, waar het in h
 | [[capaciteitsmarkt]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[co2-beprijzingstekort]] | [[0046-analyse-beprijzing-broeikasgasemissies-nederland]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[schaarste-allocatie-duurzame-energie]] | [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[energiecontracten]] | [[0029-acm-energierekening-stijgt-beter-contract]], [[0033-acm-energierekening-stijgt-bespaar-overstappen-gaslicht]], [[0039-eneco-happypower-loyaliteitsprogramma]], [[0040-overstapkosten-opzegtermijn-boetevrij]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 
 _(Voeg rijen toe naarmate nieuwe mechanismen uit bronnen komen.)_
 
@@ -38,6 +39,7 @@ _(Voeg rijen toe naarmate nieuwe mechanismen uit bronnen komen.)_
 ### A. In bronnen, niet in het model
 _(mechanismen die bronnen noemen maar die in het getoetste model geen plek lijken te hebben — vul aan tijdens ingest/lint)_
 - Industriepolitieke allocatie van schaarse duurzame energie ([[schaarste-allocatie-duurzame-energie]]) — een keuze over *wie* toegang krijgt tot schaarse energie, los van marktprijs; onduidelijk of dit type mechanisme in een marktinrichtings-/netbalansmodel als dat van Matthijs een plek heeft.
+- Contractkeuze/leveranciersgedrag ([[energiecontracten]]) — prijsverschillen tussen contracten, opzegvoorwaarden en loyaliteitsprogramma's zijn een consumentengedrag-/marktwerkingsmechanisme dat losstaat van productie-, net- of beprijzingsmodellen; waarschijnlijk geen onderdeel van een marktinrichtings-/netbalansmodel als dat van Matthijs, maar wel relevant voor de energierekening zelf.
 
 ### B. In het model, niet in bronnen
 _(modelonderdelen die in géén verwerkte bron voorkomen — vul aan tijdens lint)_
