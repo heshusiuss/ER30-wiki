@@ -12,6 +12,7 @@ Los van de onderliggende marktprijzen en netkosten kan het gekozen contract en l
 - [[0033-acm-energierekening-stijgt-bespaar-overstappen-gaslicht]] — zelfde ACM-notitie, herverpakt door een switchsite; concreet voorbeeld: duurste modelcontract €900/maand (ANWB), goedkoopste contract €196/maand (Frank Energie, geen modelcontract).
 - [[0039-eneco-happypower-loyaliteitsprogramma]] — loyaliteitsprogramma (HappyPower) geeft langjarige klanten wekelijks gratis stroom (oplopend met klantjaren); een retentie-instrument dat naast het reguliere tarief bestaat en dus bij een tariefvergelijking tussen leveranciers niet in de basisprijs zichtbaar is.
 - [[0040-overstapkosten-opzegtermijn-boetevrij]] — binnen de laatste 30 dagen van een vast contract mag altijd boetevrij worden overgestapt; leveranciers hanteren daarnaast een eigen "kijkvenster"/overnametermijn (30 dagen tot 12 maanden) waarbinnen je al een nieuw contract kunt vastleggen. Variabele, dynamische en onbepaalde-tijd-contracten zijn altijd boetevrij opzegbaar.
+- [[0089-vk-groene-energiecontracten-afname]] — internationaal signaal (VK): het aandeel groene energiecontracten op de markt daalde van 85% (2022) naar ca. 20% doordat huishoudens in een kostencrisis voor de goedkoopste optie kiezen in plaats van de duurzaamste — laat zien dat contractkeuze ook een duurzaamheids-vs-betaalbaarheid-afweging is, niet alleen een pure prijsvergelijking.
 
 ## Zie ook
 - [[dynamische-prijzen]] · [[modeltoetsing]]
