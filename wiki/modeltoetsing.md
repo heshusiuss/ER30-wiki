@@ -18,8 +18,8 @@ Onderhoud per mechanisme uit de bronnen: welke bronnen het noemen, waar het in h
 | [[balanceringsmarkt]] | [[0003-marktinrichting-hernieuwbare-energie-netbalans]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[netcongestie]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0058-richt-beleid-efficient-gebruik-schaarse-energie]], [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[netkosten-transporttarieven]] | [[0034-acm-akkoord-nettarieven-2027-2031]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]], [[0098-kosten-stroomnet-verdrievoudigen-2040]], [[0029-acm-energierekening-stijgt-beter-contract]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
-| [[salderen]] | | _?_ | _?_ |
-| [[terugleververgoeding]] | | _?_ | _?_ |
+| [[salderen]] | [[0088-betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[terugleververgoeding]] | [[0088-betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[dynamische-prijzen]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0035-nettarieven-tijdsafhankelijk-piekmomenten]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[energiebelasting]] | [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]], [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[ets2-beprijzing]] | [[0046-analyse-beprijzing-broeikasgasemissies-nederland]], [[0029-acm-energierekening-stijgt-beter-contract]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
@@ -32,6 +32,7 @@ Onderhoud per mechanisme uit de bronnen: welke bronnen het noemen, waar het in h
 | [[schaarste-allocatie-duurzame-energie]] | [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[energiecontracten]] | [[0029-acm-energierekening-stijgt-beter-contract]], [[0033-acm-energierekening-stijgt-bespaar-overstappen-gaslicht]], [[0039-eneco-happypower-loyaliteitsprogramma]], [[0040-overstapkosten-opzegtermijn-boetevrij]], [[0089-vk-groene-energiecontracten-afname]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 | [[warmtepompen-verwarmingstransitie]] | [[0054-duitsland-verwarmingswet-terugdraaien]], [[0074-vk-carbon-budget-delivery-plan]], [[0087-vk-warmtepompen-koeling-weer]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
+| [[energiearmoede]] | [[0098-kosten-stroomnet-verdrievoudigen-2040]], [[0081-compensatie-hoge-energieprijzen-regeling-voor-huishoudens-me]] | _nog niet te toetsen — geen model aanwezig_ | _?_ |
 
 _(Voeg rijen toe naarmate nieuwe mechanismen uit bronnen komen.)_
 
@@ -42,6 +43,8 @@ _(mechanismen die bronnen noemen maar die in het getoetste model geen plek lijke
 - Industriepolitieke allocatie van schaarse duurzame energie ([[schaarste-allocatie-duurzame-energie]]) — een keuze over *wie* toegang krijgt tot schaarse energie, los van marktprijs; onduidelijk of dit type mechanisme in een marktinrichtings-/netbalansmodel als dat van Matthijs een plek heeft.
 - Contractkeuze/leveranciersgedrag ([[energiecontracten]]) — prijsverschillen tussen contracten, opzegvoorwaarden en loyaliteitsprogramma's zijn een consumentengedrag-/marktwerkingsmechanisme dat losstaat van productie-, net- of beprijzingsmodellen; waarschijnlijk geen onderdeel van een marktinrichtings-/netbalansmodel als dat van Matthijs, maar wel relevant voor de energierekening zelf.
 - Koelvraag/airconditioning ([[leveringszekerheid]], via [[0087-vk-warmtepompen-koeling-weer]]) — een in de NL-bronnen tot nu toe volledig afwezige vraagfactor; onduidelijk of een NL-gericht model deze factor al meeneemt.
+- Uitvoeringsdetails van compensatieregelingen ([[energiearmoede]], via [[0081-compensatie-hoge-energieprijzen-regeling-voor-huishoudens-me]]) — of een huishouden steun krijgt hangt af van aansluitingstype (individueel vs. blok); dit soort uitvoeringstechnisch onderscheid past waarschijnlijk niet in een marktinrichtings-/netbalansmodel, maar is wel bepalend voor wie de energierekening daadwerkelijk kan betalen.
+- Onderscheid terugleverkosten vs. terugleververgoeding ([[terugleververgoeding]], via [[0088-betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-]]) — publiek (zie reacties onder de bron) worden beide vaak door elkaar gehaald; een begrijpelijkheidsvraagstuk dat los staat van marktwerking maar wel de framing van "oneerlijke kosten" voedt.
 
 ### B. In het model, niet in bronnen
 _(modelonderdelen die in géén verwerkte bron voorkomen — vul aan tijdens lint)_

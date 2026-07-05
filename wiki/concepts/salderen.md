@@ -8,7 +8,7 @@
 Wordt afgebouwd; raakt de rendabiliteit van zonnepanelen en daarmee de rekening van panelenbezitters en huurders.
 
 ## Bronnen die dit noemen
-- _(in te vullen bij ingest)_
+- [[0088-betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-]] — afschaffing per 1 januari 2027 is de aanleiding voor Kamerdiscussie over terugleverkosten/-vergoeding; na afschaffing kan de terugverdientijd van zonnepanelen in een ongunstig scenario oplopen tot meer dan 16 jaar.
 
 ## Zie ook
 - [[terugleververgoeding]] · [[modeltoetsing]]

@@ -9,6 +9,7 @@ Verbindt prijzen, netkosten, woningkwaliteit en compensatieregelingen; centrale 
 
 ## Bronnen die dit noemen
 - [[0098-kosten-stroomnet-verdrievoudigen-2040]] — ambtenaren waarschuwen expliciet dat de verwachte stijging van netbeheerkosten (van €400 naar €1.100/jaar in 2040) voor gezinnen met een hoge energierekening en laag inkomen onbetaalbaar dreigt te worden.
+- [[0081-compensatie-hoge-energieprijzen-regeling-voor-huishoudens-me]] — huishoudens met een blokaansluiting (~700.000, vaak studenten/huurders van kleine appartementen) vielen buiten het generieke prijsplafond en Noodfonds Energie; een aparte compensatieregeling repareert dit met terugwerkende kracht over 2022-2023.
 
 ## Zie ook
 - [[energiebelasting]] · [[netkosten-transporttarieven]] · [[modeltoetsing]]
