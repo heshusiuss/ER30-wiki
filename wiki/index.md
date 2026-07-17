@@ -27,7 +27,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 18** · BNR · _Overzicht / jaaroverzicht_ — Wonen wordt betaalbaarder, maar energierekening omhoog: dit verandert er dit jaar → [[0018-wonen-wordt-betaalbaarder-maar-energierekening-omhoog-dit-verandert-er-dit-jaar]]
 - [x] ** 20** · ESB · _Marktinrichting_ — Nederland loopt achter met vormgeven nieuwe energiemarkt → [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]]
 - [x] ** 21** · ESB · _Energieprijzen_ — [[0021-effecten-elektriciteitsprijzen]]  <https://esb.nu/effecten-elektriciteitsprijzen/>
-- [ ] ** 23** · BNR · _Vergoedingen & tarieven_ — Na beperking accijnskorting: prijzen aan de pomp met zo’n 5,5 procent omhoog  <https://www.bnr.nl/nieuws/economie/10591062/na-beperking-accijnskorting-prijzen-aan-de-pomp-met-zon-5-5-procent-omhoog>
+- [x] ** 23** · BNR · _Beprijzing (belasting/heffing)_ — Na beperking accijnskorting: prijzen aan de pomp met zo'n 5,5 procent omhoog → [[0023-na-beperking-accijnskorting-prijzen-aan-de-pomp-omhoog]]
 - [x] ** 29** · ACM · _Contracten & arrangementen_ — ACM: Energierekening stijgt, huishoudens kunnen besparen met beter contract → [[0029-acm-energierekening-stijgt-beter-contract]]
 - [x] ** 33** · Gaslicht.com · _Contracten & arrangementen_ — ACM: energierekening stijgt, bespaar door over te stappen → [[0033-acm-energierekening-stijgt-bespaar-overstappen-gaslicht]]
 - [x] ** 34** · Kennisvanenergie.nl · _Netkosten & transporttarieven_ — ACM-akkoord nettarieven 2027-2031: Wat betekent dit voor jouw energierekening en bedrijf? → [[0034-acm-akkoord-nettarieven-2027-2031]]
@@ -44,7 +44,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 52** · BNR · _Energieprijzen_ — Huishoudens betalen in 2026 minder voor gas en elektra door dalende leveringskosten → [[0052-huishoudens-betalen-in-2026-minder-voor-gas-en-elektra-door-dalende-leveringskosten]]
 - [x] ** 54** · The Guardian · _Internationaal_ — Germany accused of ditching climate targets as it scraps renewables mandate → [[0054-duitsland-verwarmingswet-terugdraaien]]
 - [ ] ** 56** · BNR · _Netkosten & transporttarieven_ — Energierekening stijgt: huishoudens betalen in 2026 ruim 3 procent meer  <https://www.bnr.nl/nieuws/economie/10588368/energierekening-stijgt-huishoudens-betalen-in-2026-ruim-3-procent-meer>
-- [ ] ** 57** · BNR · _Beprijzing (belasting/heffing)_ — Benzine wordt duurder, maar hogere vermogenstaks gaat van tafel  <https://www.bnr.nl/nieuws/nieuws-politiek/10588357/benzine-wordt-5-cent-duurder-door-accijnsverhoging-meer-geld-naar-openbaar-vervoer>
+- [x] ** 57** · BNR · _Beprijzing (belasting/heffing)_ — Benzine wordt duurder, maar hogere vermogenstaks gaat van tafel → [[0057-benzine-wordt-duurder-maar-hogere-vermogenstaks-gaat-van-tafel]]
 - [x] ** 58** · ESB · _Marktinrichting_ — Richt beleid op efficiënt gebruik schaarse energie → [[0058-richt-beleid-efficient-gebruik-schaarse-energie]]
 - [ ] ** 60** · BNR · _Contracten & arrangementen_ — Netbeheerders te traag met flexcontracten, toezichthouder eist verbeterplan  <https://www.bnr.nl/nieuws/economie/10588300/netbeheerders-te-traag-met-flexcontracten-toezichthouder-eist-verbeterplan>
 - [ ] ** 66** · BNR · _Begrijpelijkheid & toegankelijkheid_ — Consumenten vinden vergelijken energiecontracten moeilijk  <https://www.bnr.nl/nieuws/duurzaamheid/10587886/consumenten-vinden-vergelijken-energiecontracten-moeilijk>
