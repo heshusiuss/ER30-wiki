@@ -8,6 +8,7 @@ Een regeling die op papier de energierekening verlaagt, doet dat in de praktijk 
 ## Bronnen die dit noemen
 - [[0102-aanvraag-noodfonds-energie-te-lastig-voor-veel-bredanaars-he]] — de aanvraag voor het Noodfonds Energie in Breda kon alleen digitaal (met DigiD en meerdere documenten) en was taalkundig lastig; het fonds sloot bovendien snel na uitputting. Lokale organisaties (bibliotheek, IMW, Humanitas) hielpen, maar bereikten niet iedereen op tijd. SP Breda diende een motie in voor een verplichte papieren aanvraagoptie bij armoederegelingen.
 - [[0081-compensatie-hoge-energieprijzen-regeling-voor-huishoudens-me]] — huishoudens met een blokaansluiting vielen aanvankelijk buiten het generieke prijsplafond en Noodfonds Energie; het aansluitingstype (niet het inkomen) bepaalde hier de toegang tot compensatie.
+- [[0106-noodfonds-energie-gesloten-210000-aanvragen-in-een-week]] — een ander type toegankelijkheidsbarrière dan procedure/taal: het fonds sluit binnen een week door 210.000 aanvragen tegenover ca. 100.000 beschikbare plekken — ook een tijdig en correct ingediende aanvraag garandeert dus geen steun bij uitputting van het budget.
 
 ## Zie ook
 - [[energiearmoede]] · [[energielabel]] · [[modeltoetsing]]
