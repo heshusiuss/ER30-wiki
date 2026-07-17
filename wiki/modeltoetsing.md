@@ -5,7 +5,7 @@ Deze pagina dient twee functies, allebei analytisch:
 1. **Toetsing van observaties** — kunnen mechanismen die in verwerkte bronnen voorkomen geplaatst worden in een bestaand model van de energierekening?
 2. **Blinde vlekken** — wat zit in de bronnen maar niet in het model, en omgekeerd?
 
-Startpunt is het model/schema van Matthijs; zet dat in `raw/modellen/`. Andere modellen kunnen ernaast gelegd worden (extra kolommen in de tabel hieronder).
+Startpunt is het model/schema; zet dat in `raw/modellen/`. Andere modellen kunnen ernaast gelegd worden (extra kolommen in de tabel hieronder).
 
 > Monitoring-kanttekening: dit is een toevallige greep bronnen, geen systematische meting. Gebruik dit voor signalering — niet voor uitspraken over hoe vaak iets speelt.
 

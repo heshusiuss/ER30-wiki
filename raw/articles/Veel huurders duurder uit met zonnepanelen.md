@@ -1,0 +1,7 @@
+Het wegvallen van de salderingsregeling betekent immers dat zij hun opgewekte elektriciteit niet meer kunnen verrekenen met hun eigen verbruik. De servicekosten blijven echter, waardoor mogelijk 85 procent van de huurders netto duurder uit is dan zonder zonnepanelen. Dat nadeel varieert van enkele euro's tot tientallen euro's per maand.
+
+Het afgelopen halfjaar is door woningcorporaties intensief geëxperimenteerd met thuisbatterijen waardoor huurders meer eigen zonnestroom kunnen gebruiken om zo toch nog een positief resultaat te boeken. Dat leek dé oplossing. Maar uit de pilots kwam maar één ding duidelijk naar voren: die thuisbatterij is domweg nog te duur.
+
+![Het afgelopen halfjaar is door woningcorporaties intensief geëxperimenteerd met thuisbatterijen waardoor huurders meer eigen zonnestroom kunnen gebruiken om zo toch nog een positief resultaat te boeken. Dat leek dé oplossing. Maar uit de pilots kwam maar één ding duidelijk naar voren: die thuisbatterij is domweg nog te duur.](https://bnr-external-prod.imgix.net/663416-663418.jpeg?auto=format&ixlib=react-9.11.0&w=8192)
+
+Het afgelopen halfjaar is door woningcorporaties intensief geëxperimenteerd met thuisbatterijen waardoor huurders meer eigen zonnestroom kunnen gebruiken om zo toch nog een positief resultaat te boeken. Dat leek dé oplossing. Maar uit de pilots kwam maar één ding duidelijk naar voren: die thuisbatterij is domweg nog te duur.
