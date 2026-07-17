@@ -1,0 +1,58 @@
+name: Wiki lint
+
+# Wekelijkse gezondheidscheck volgens de "Lint"-procedure in CLAUDE.md.
+# Draait als één ononderbroken sessie (geen matrix): lint is inherent een
+# holistische vergelijking tussen pagina's (dubbels, tegenstrijdigheden,
+# weespagina's), dat decomponeert niet zinvol per bestand zoals ingest dat wel
+# doet. Omdat het maar één keer per week draait blijft de context-kost begrensd
+# tot een incidentele volledige scan, geen doorlopend accumulerend gesprek.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # elke maandag 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  id-token: write
+
+concurrency:
+  group: wiki-lint
+  cancel-in-progress: false
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            REPO: ${{ github.repository }}
+
+            Voer de "Lint"-procedure uit CLAUDE.md uit op de volledige wiki/:
+            tegenstrijdigheden tussen pagina's, verouderde claims, weespagina's
+            zonder inkomende links, mechanismen die wel genoemd worden maar geen
+            eigen concept-pagina hebben, ontbrekende kruisverwijzingen,
+            frontmatter die niet-letterlijk-in-de-bron-staande data bevat (bv.
+            een gefabriceerde exacte datum), dubbele rijen in modeltoetsing.md,
+            en thema's buiten wiki/taxonomie.md.
+
+            Fix directe, veilige fouten zelf (bv. een gefabriceerde datum
+            leegmaken, een dubbele tabelrij verwijderen, een broken wikilink
+            herstellen) en commit + push die fixes naar main in één commit.
+            Voeg een regel toe aan wiki/log.md volgens de logboek-conventie met
+            wat is gecheckt en wat is gefixt.
+
+            Open daarnaast één GitHub issue met titel "Lint-rapport <YYYY-MM-DD>"
+            met: (a) wat is gefixt, (b) openstaande signalen die een keuze van de
+            beheerder vragen (bv. ongebruikte taxonomie-thema's, ontbrekende
+            data, stale stub-labels, gaten in modeltoetsing.md).
+          claude_args: |
+            --allowedTools "Read,Write,Edit,Bash(git:*),Bash(gh issue:*)"

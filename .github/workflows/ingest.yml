@@ -1,0 +1,157 @@
+name: Wiki ingest
+
+# Trigger: nieuwe/aangepaste bestanden in raw/. Eén workflow-run kan drie fases
+# doorlopen: (1) nummerprefix toekennen aan nieuwe bronnen, (2) bepalen welke
+# bronnen nog geen wiki/sources-pagina hebben, (3) die bronnen één voor één
+# verwerken volgens CLAUDE.md.
+#
+# Context-management: elke bron krijgt een eigen, verse Claude Code-sessie
+# (matrix job met max-parallel: 1) in plaats van één sessie die alle bronnen
+# na elkaar afwerkt. Dat voorkomt de context-opbouw/compactie die optreedt
+# als je tientallen bronnen in één doorlopend gesprek verwerkt — iedere job
+# start koud, leest alleen wat voor die ene bron nodig is, commit, en stopt.
+# `concurrency` zorgt dat runs nooit gelijktijdig tegen dezelfde main-branch
+# schrijven; een batch groter dan MAX_PER_RUN wordt over meerdere runs verdeeld.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "raw/articles/**"
+      - "raw/reports/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  id-token: write
+
+concurrency:
+  group: wiki-ingest
+  cancel-in-progress: false
+
+jobs:
+  assign-ids:
+    runs-on: ubuntu-latest
+    outputs:
+      found: ${{ steps.check.outputs.found }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Detect raw files without NNNN- prefix
+        id: check
+        run: |
+          UNPREFIXED=$( { find raw/articles raw/reports -maxdepth 1 -type f 2>/dev/null || true; } \
+            | grep -vE '/[0-9]{4}-' || true)
+          if [ -n "$UNPREFIXED" ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: anthropics/claude-code-action@v1
+        if: steps.check.outputs.found == 'true'
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            REPO: ${{ github.repository }}
+
+            Er staan bestanden in raw/articles/ of raw/reports/ zonder het
+            verplichte "NNNN-slug.md"-nummerprefix. Doe UITSLUITEND het volgende
+            (nog geen ingest/samenvatting):
+
+            Voor elk onvoorzien-van-prefix bestand:
+            1. Zoek in wiki/index.md naar een nog openstaande backlogregel
+               ("- [ ] **N** ... — Titel <url>") die qua titel of URL overeenkomt.
+               Gebruik dat nummer als match bestaat.
+            2. Bestaat er geen match: ken het eerstvolgende vrije nummer toe
+               (hoogste bestaande wiki/sources/NNNN-*.md-nummer + 1).
+            3. Hernoem het bestand met `git mv` naar NNNN-korte-kebab-case-slug.md
+               (slug afgeleid van de titel, geen inhoud wijzigen).
+
+            Commit alle hernoemingen in één commit met een korte, duidelijke
+            boodschap en push naar main. Wijzig verder niets.
+          claude_args: |
+            --allowedTools "Read,Bash(git:*),Bash(find:*)"
+
+  plan:
+    needs: assign-ids
+    runs-on: ubuntu-latest
+    outputs:
+      files: ${{ steps.diff.outputs.files }}
+      has_new: ${{ steps.diff.outputs.has_new }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Find raw sources without a wiki/sources page
+        id: diff
+        run: |
+          python3 - <<'PYEOF' >> "$GITHUB_OUTPUT"
+          import glob, json, os, re
+
+          raw = sorted(glob.glob("raw/articles/[0-9][0-9][0-9][0-9]-*.md")) + \
+                sorted(glob.glob("raw/reports/[0-9][0-9][0-9][0-9]-*.*"))
+          have = {
+              re.match(r"(\d{4})-", os.path.basename(p)).group(1)
+              for p in glob.glob("wiki/sources/[0-9][0-9][0-9][0-9]-*.md")
+          }
+
+          missing = [
+              p for p in raw
+              if re.match(r"(\d{4})-", os.path.basename(p)).group(1) not in have
+          ]
+
+          MAX_PER_RUN = 8  # kostenplafond per workflow-run, niet een context-limiet
+          batch = missing[:MAX_PER_RUN]
+
+          print(f"files={json.dumps(batch)}")
+          print(f"has_new={'true' if batch else 'false'}")
+          PYEOF
+
+  ingest:
+    needs: plan
+    if: needs.plan.outputs.has_new == 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        file: ${{ fromJson(needs.plan.outputs.files) }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            REPO: ${{ github.repository }}
+            BRON: ${{ matrix.file }}
+
+            Ingest precies dit ene bronbestand volgens de "Ingest"-procedure in
+            CLAUDE.md: lees de bron, maak wiki/sources/NNNN-slug.md met volledige
+            frontmatter en een samenvatting in eigen woorden, maak/update de
+            betrokken wiki/concepts/- en wiki/entities/-pagina's, werk waar
+            relevant modeltoetsing.md en overview.md bij, werk index.md bij
+            (vink de backlogregel af als die bestaat, met [[wikilink]] naar de
+            nieuwe pagina), en voeg een regel toe aan log.md volgens de
+            logboek-conventie.
+
+            Verwerk ALLEEN deze ene bron, raak geen andere bestanden in raw/ aan.
+            Vul nooit data in die niet letterlijk in de bron staat (bv. datum:
+            leeg laten als er geen expliciete publicatiedatum in de tekst staat).
+            Gebruik alleen thema's uit wiki/taxonomie.md.
+
+            Commit alle wijzigingen in één commit met een korte, duidelijke
+            boodschap en push naar main.
+          claude_args: |
+            --allowedTools "Read,Write,Edit,Bash(git:*)"
