@@ -43,10 +43,10 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 50** · BNR · _Vergoedingen & tarieven_ — Mogelijk meer betalen bij zuinig gebruik warmtenet → [[0050-mogelijk-meer-betalen-bij-zuinig-gebruik-warmtenet]]
 - [x] ** 52** · BNR · _Energieprijzen_ — Huishoudens betalen in 2026 minder voor gas en elektra door dalende leveringskosten → [[0052-huishoudens-betalen-in-2026-minder-voor-gas-en-elektra-door-dalende-leveringskosten]]
 - [x] ** 54** · The Guardian · _Internationaal_ — Germany accused of ditching climate targets as it scraps renewables mandate → [[0054-duitsland-verwarmingswet-terugdraaien]]
-- [ ] ** 56** · BNR · _Netkosten & transporttarieven_ — Energierekening stijgt: huishoudens betalen in 2026 ruim 3 procent meer  <https://www.bnr.nl/nieuws/economie/10588368/energierekening-stijgt-huishoudens-betalen-in-2026-ruim-3-procent-meer>
+- [x] ** 56** · BNR · _Netkosten & transporttarieven_ — Energierekening stijgt: huishoudens betalen in 2026 ruim 3 procent meer → [[0056-energierekening-stijgt-huishoudens-betalen-in-2026-ruim-3-procent-meer]]
 - [x] ** 57** · BNR · _Beprijzing (belasting/heffing)_ — Benzine wordt duurder, maar hogere vermogenstaks gaat van tafel → [[0057-benzine-wordt-duurder-maar-hogere-vermogenstaks-gaat-van-tafel]]
 - [x] ** 58** · ESB · _Marktinrichting_ — Richt beleid op efficiënt gebruik schaarse energie → [[0058-richt-beleid-efficient-gebruik-schaarse-energie]]
-- [ ] ** 60** · BNR · _Contracten & arrangementen_ — Netbeheerders te traag met flexcontracten, toezichthouder eist verbeterplan  <https://www.bnr.nl/nieuws/economie/10588300/netbeheerders-te-traag-met-flexcontracten-toezichthouder-eist-verbeterplan>
+- [x] ** 60** · BNR · _Contracten & arrangementen_ — Netbeheerders te traag met flexcontracten, toezichthouder eist verbeterplan → [[0060-netbeheerders-te-traag-met-flexcontracten-toezichthouder-eist-verbeterplan]]
 - [x] ** 66** · BNR · _Begrijpelijkheid & toegankelijkheid_ — Consumenten vinden vergelijken energiecontracten moeilijk → [[0066-consumenten-vinden-vergelijken-energiecontracten-moeilijk]]
 - [x] ** 67** · NOS · _Begrijpelijkheid & toegankelijkheid_ — [[0067-vereniging-eigen-huis-verbeteren-energielabel-voor-huiseigen]]  <https://nos.nl/collectie/13871/artikel/2590911-vereniging-eigen-huis-verbeteren-energielabel-voor-huiseigenaren-te-onduidelijk>
 - [ ] ** 69** · PBL · _Modellen & methodiek_ — KORTE BESCHRIJVING ENERGIEPRIJZENMODEL  <https://www.pbl.nl/sites/default/files/downloads/pbl-2019-kev-rekensysteem-korte-modelbeschrijving-energieprijzen_3834.pdf>
@@ -66,13 +66,13 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 96** · NOS · _Transitiekosten_ — [[0096-energienota-omhoog-door-dure-aanleg-stroomnet-op-zee-zo-comp]]  <https://nos.nl/collectie/13871/video/2569262-energienota-omhoog-door-dure-aanleg-stroomnet-op-zee-zo-complex-is-de-klus>
 - [ ] ** 97** · BNR · _Beprijzing (belasting/heffing)_ — Minister bevestigt: huurders slechter af met zonnepanelen door afschaffen salderingsregeling  <https://www.bnr.nl/nieuws/nieuws-politiek/10575071/minister-bevestigt-huurders-slechter-af-met-zonnepanelen-door-afschaffen-salderingsregeling>
 - [x] ** 98** · NOS · _Netkosten & transporttarieven_ — Kosten gebruik stroomnet verdrievoudigen: gemiddeld 1100 euro in 2040 → [[0098-kosten-stroomnet-verdrievoudigen-2040]]
-- [ ] **100** · BNR · _Contracten & arrangementen_ — Enexis-klanten krijgen geld om minder stroom te leveren op zonnige dagen  <https://www.bnr.nl/nieuws/tech-innovatie/10574714/enexis-klanten-krijgen-geld-om-minder-stroom-te-leveren-op-zonnige-dagen>
+- [x] **100** · BNR · _Contracten & arrangementen_ — Enexis-klanten krijgen geld om minder stroom te leveren op zonnige dagen → [[0100-enexis-klanten-krijgen-geld-om-minder-stroom-te-leveren-op-zonnige-dagen]]
 - [x] **102** · BredaNu · _Begrijpelijkheid & toegankelijkheid_ — [[0102-aanvraag-noodfonds-energie-te-lastig-voor-veel-bredanaars-he]]  <https://bredanu.nl/nieuws/aanvraag-noodfonds-energie-te-lastig-voor-veel-bredanaars-het-lukt-gewoon-niet/>
 - [ ] **104** · BNR · _Energieprijzen_ — Gasprijs stijgt plots weer door forse concurrentie op lng-markt | BNR Nieuwsradio  <https://www.bnr.nl/nieuws/economie/10573114/gasprijs-stijgt-plots-weer-door-forse-concurrentie-op-lng-markt>
 - [ ] **105** · BNR · _Energieprijzen_ — Steeds vaker geld toe door negatieve energieprijs: ‘Stroomrekening gaat voor iedereen omlaag’  <https://www.bnr.nl/nieuws/duurzaamheid/10572910/steeds-vaker-geld-toe-door-negatieve-energieprijs-stroomrekening-gaat-voor-iedereen-omlaag>
 - [x] **106** · BNR · _Begrijpelijkheid & toegankelijkheid_ — Noodfonds Energie gesloten, 210.000 aanvragen in een week → [[0106-noodfonds-energie-gesloten-210000-aanvragen-in-een-week]]
 - [x] **109** · NOS · _Vergoedingen & tarieven_ — [[0109-berekening-terugleverkosten-zonnepanelen-moet-transparanter]]  <https://nos.nl/artikel/2559973-berekening-terugleverkosten-zonnepanelen-moet-transparanter>
-- [ ] **114** · BNR · _Netkosten & transporttarieven_ — 11 miljard euro per jaar nodig voor toekomstbestendig stroomnet  | BNR Nieuwsradio  <https://www.bnr.nl/nieuws/nieuws-politiek/10568696/11-miljard-euro-per-jaar-nodig-voor-toekomstbestendig-stroomnet>
+- [x] **114** · BNR · _Netkosten & transporttarieven_ — 11 miljard euro per jaar nodig voor toekomstbestendig stroomnet → [[0114-11-miljard-euro-per-jaar-nodig-voor-toekomstbestendig-stroomnet]]
 
 ### 2. Deels betaalmuur – clippen indien toegankelijk  (15)
 
@@ -94,7 +94,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 
 ### 3. Betaalmuur (FD/Energeia) – via eigen login, zie regels  (45)
 
-- [ ] **  2** · Energeia · _Afhankelijkheid / import_ — Uur van de dag bepaalt straks de prijs van gebruik stroomnet  <https://energeia.nl/uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet/>
+- [x] **  2** · Energeia · _Netkosten & transporttarieven_ — Uur van de dag bepaalt straks de prijs van gebruik stroomnet → [[0002-uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet]]
 - [x] **  4** · Energeia · _Publiek/privaat/maatschappelijk_ — De sluitpost van het warmtenet moet niet de bewoner zijn → [[0004-de-sluitpost-van-het-warmtenet-moet-niet-de-bewoner-zijn]]
 - [ ] **  5** · Energeia · _Overzicht / jaaroverzicht_ — Rekenkamer: warmtepomp zit warmtenet in de weg ["oerwoud aan subsidies"]  <https://energeia.nl/rekenkamer-warmtepomp-zit-warmtenet-in-de-weg>
 - [ ] **  6** · Energeia · _Consumentengedrag_ — Pilot vrijwillig uitschakelen zonnepanelen krijgt vervolg  <https://energeia.nl/pilot-vrijwillig-uitschakelen-zonnepanelen-krijgt-vervolg>

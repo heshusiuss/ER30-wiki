@@ -13,6 +13,8 @@
 
 - [[0050-mogelijk-meer-betalen-bij-zuinig-gebruik-warmtenet]] — stelt jaarlijks de maximale vaste en variabele warmtetarieven vast, omdat warmtenetgebruikers geen leverancier kunnen kiezen; voor 2026 daalt het maximale variabele tarief maar stijgen de maximale vaste kosten, met een omgekeerd effect voor laagverbruikers.
 - [[0066-consumenten-vinden-vergelijken-energiecontracten-moeilijk]] — onderzoek: meerderheid consumenten vindt het aantal leveranciers onoverzichtelijk en prijzen (door tijdelijke acties/welkomstkortingen) lastig te doorgronden; signaleert ook opdringerige telefonische werving en lagere tevredenheid bij warmtenetgebruikers, en roept leveranciers op te stoppen met telefonische werving.
+- [[0002-uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet]] — beoordeelt het aankomende codewijzigingsvoorstel van Netbeheer Nederland voor tijdsafhankelijke nettarieven voor grootverbruikers op het regionale net.
+- [[0060-netbeheerders-te-traag-met-flexcontracten-toezichthouder-eist-verbeterplan]] — eist voor het eerst van alle netbeheerders gezamenlijk een formeel verbeterplan tegen netcongestie/trage flexcontracten, na onvoldoende resultaat uit reguliere gesprekken.
 
 ## Zie ook
 - [[modeltoetsing]] · [[taxonomie]]

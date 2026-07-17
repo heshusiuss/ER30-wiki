@@ -7,6 +7,8 @@
 
 ## Wat bronnen over deze partij zeggen
 - [[0034-acm-akkoord-nettarieven-2027-2031]] — mede-ondertekenaar van het marktbrede akkoord met de ACM over de tariefregulering voor 2027-2031, gericht op stabiliteit en snellere netinvesteringen.
+- [[0002-uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet]] — trekt (op basis van CE Delft-onderzoek) een codewijzigingsvoorstel voor tijdsafhankelijke nettarieven voor grootverbruikers op het regionale net, in te dienen bij de ACM.
+- [[0056-energierekening-stijgt-huishoudens-betalen-in-2026-ruim-3-procent-meer]] — meldt dat nettarieven voor huishoudens in 2026 gemiddeld stijgen, met een verschil per netbeheerder en aansluitcapaciteit.
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]
