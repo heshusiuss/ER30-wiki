@@ -14,6 +14,7 @@ Stijgende post op de energierekening; hangt samen met netuitbreiding, netcongest
 - [[0029-acm-energierekening-stijgt-beter-contract]] — ACM-berekening: transportkosten voor elektriciteit van een gemiddeld huishouden lopen op van ca. €250/jaar nu naar €600-800/jaar in 2050.
 - [[0096-energienota-omhoog-door-dure-aanleg-stroomnet-op-zee-zo-comp]] — de aanleg van kabels en transformatorplatforms voor het net op zee (tientallen miljarden euro's) is een specifieke, fysieke aanjager van de netkosten-stijging, naast de eerder genoemde investeringen op land.
 - [[0036-people-like-cheap-energy-the-bagel-shop-saving-money-and-emi]] — internationaal signaal (VS): piekvermogen-gebaseerde nettarieven ("demand charges") voor bedrijven bestaan er al langer en lokken accugebruik uit om de rekening te verlagen; vergelijkingsmateriaal voor de Nederlandse tijdsafhankelijke nettarieven vanaf 2028.
+- [[0018-wonen-wordt-betaalbaarder-maar-energierekening-omhoog-dit-verandert-er-dit-jaar]] — netbeheerders verhogen de vaste kosten in 2026 met tot €30/jaar, los van de belastingwijzigingen op dezelfde rekening.
 
 ## Zie ook
 - [[netcongestie]] · [[curtailment]] · [[energiearmoede]] · [[modeltoetsing]]
