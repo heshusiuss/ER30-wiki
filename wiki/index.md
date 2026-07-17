@@ -40,7 +40,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 46** · PBL · _Marktinrichting_ — Analyse van de beprijzing van broeikasgasemissies in Nederland → [[0046-analyse-beprijzing-broeikasgasemissies-nederland]]
 - [ ] ** 47** · BNR · _Compensatie_ — Zeeuws-Vlaanderen eist miljarden als kerncentrales daar worden gebouwd  <https://www.bnr.nl/nieuws/nieuws-politiek/10589977/zeeuws-vlaanderen-eist-miljarden-als-kerncentrales-daar-worden-gebouwd>
 - [ ] ** 48** · BNR · _Internationaal_ — Nederlandse industrie roept op om energieprijs gelijk te trekken met buurlanden  <https://www.bnr.nl/nieuws/economie/10589856/nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden>
-- [ ] ** 50** · BNR · _Consumentengedrag_ — Mogelijk meer betalen bij zuinig gebruik warmtenet  <https://www.bnr.nl/nieuws/duurzaamheid/10588923/mogelijk-meer-betalen-bij-zuinig-gebruik-warmtenet>
+- [x] ** 50** · BNR · _Vergoedingen & tarieven_ — Mogelijk meer betalen bij zuinig gebruik warmtenet → [[0050-mogelijk-meer-betalen-bij-zuinig-gebruik-warmtenet]]
 - [x] ** 52** · BNR · _Energieprijzen_ — Huishoudens betalen in 2026 minder voor gas en elektra door dalende leveringskosten → [[0052-huishoudens-betalen-in-2026-minder-voor-gas-en-elektra-door-dalende-leveringskosten]]
 - [x] ** 54** · The Guardian · _Internationaal_ — Germany accused of ditching climate targets as it scraps renewables mandate → [[0054-duitsland-verwarmingswet-terugdraaien]]
 - [ ] ** 56** · BNR · _Netkosten & transporttarieven_ — Energierekening stijgt: huishoudens betalen in 2026 ruim 3 procent meer  <https://www.bnr.nl/nieuws/economie/10588368/energierekening-stijgt-huishoudens-betalen-in-2026-ruim-3-procent-meer>
@@ -61,7 +61,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 87** · The Guardian · _Internationaal_ — Cool Britannia: the heat pumps keeping pace with the UK's wild weather → [[0087-vk-warmtepompen-koeling-weer]]
 - [x] ** 88** · Energievergelijk.nl · _Beprijzing (belasting/heffing)_ — [[0088-betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-]]  <https://www.energievergelijk.nl/nieuws/betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-grijpt-in>
 - [x] ** 89** · The Guardian · _Internationaal_ — Fewer green energy tariffs offered as British households opt for cheaper deals → [[0089-vk-groene-energiecontracten-afname]]
-- [ ] ** 90** · BNR · _Beschikbaarheid / aansluiting / warmtenet_ — ‘Over vijf jaar is het warmtenet het goedkoopst’, maar corporaties twijfelen nog  <https://www.bnr.nl/nieuws/duurzaamheid/10579501/over-vijf-jaar-is-het-warmtenet-het-goedkoopst-maar-corporaties-twijfelen-nog>
+- [x] ** 90** · BNR · _Beschikbaarheid / aansluiting / warmtenet_ — 'Over vijf jaar is het warmtenet het goedkoopst', maar corporaties twijfelen nog → [[0090-over-vijf-jaar-is-het-warmtenet-het-goedkoopst-maar-corporaties-twijfelen-nog]]
 - [ ] ** 93** · BNR · _Energieprijzen_ — ‘Scenario explosie energieprijzen: lage waarschijnlijkheid, enorme impact’  <https://www.bnr.nl/nieuws/economie/10576051/scenario-explosie-energieprijzen-lage-waarschijnlijkheid-enorme-impact>
 - [x] ** 96** · NOS · _Transitiekosten_ — [[0096-energienota-omhoog-door-dure-aanleg-stroomnet-op-zee-zo-comp]]  <https://nos.nl/collectie/13871/video/2569262-energienota-omhoog-door-dure-aanleg-stroomnet-op-zee-zo-complex-is-de-klus>
 - [ ] ** 97** · BNR · _Beprijzing (belasting/heffing)_ — Minister bevestigt: huurders slechter af met zonnepanelen door afschaffen salderingsregeling  <https://www.bnr.nl/nieuws/nieuws-politiek/10575071/minister-bevestigt-huurders-slechter-af-met-zonnepanelen-door-afschaffen-salderingsregeling>
@@ -95,7 +95,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 ### 3. Betaalmuur (FD/Energeia) – via eigen login, zie regels  (45)
 
 - [ ] **  2** · Energeia · _Afhankelijkheid / import_ — Uur van de dag bepaalt straks de prijs van gebruik stroomnet  <https://energeia.nl/uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet/>
-- [ ] **  4** · Energeia · _Publiek/privaat/maatschappelijk_ — De sluitpost van het warmtenet moet niet de bewoner zijn  <https://energeia.nl/de-sluitpost-van-het-warmtenet-moet-niet-de-bewoner-zijn>
+- [x] **  4** · Energeia · _Publiek/privaat/maatschappelijk_ — De sluitpost van het warmtenet moet niet de bewoner zijn → [[0004-de-sluitpost-van-het-warmtenet-moet-niet-de-bewoner-zijn]]
 - [ ] **  5** · Energeia · _Overzicht / jaaroverzicht_ — Rekenkamer: warmtepomp zit warmtenet in de weg ["oerwoud aan subsidies"]  <https://energeia.nl/rekenkamer-warmtepomp-zit-warmtenet-in-de-weg>
 - [ ] **  6** · Energeia · _Consumentengedrag_ — Pilot vrijwillig uitschakelen zonnepanelen krijgt vervolg  <https://energeia.nl/pilot-vrijwillig-uitschakelen-zonnepanelen-krijgt-vervolg>
 - [ ] **  7** · Energeia · _Regelgeving & toezicht_ — Hoge Raad: aansluit­kosten over jaren uitsmeren mocht niet  <https://energeia.nl/hoge-raad-aansluitkosten-over-jaren-uitsmeren-mocht-niet>
