@@ -12,6 +12,7 @@
 - [[0109-berekening-terugleverkosten-zonnepanelen-moet-transparanter]] — meldt een sterke stijging van terugleverkosten en start een onderzoek naar hoe energiebedrijven deze kosten berekenen; terugleverkosten mogen wettelijk alleen de werkelijke verwerkingskosten benaderen.
 
 - [[0050-mogelijk-meer-betalen-bij-zuinig-gebruik-warmtenet]] — stelt jaarlijks de maximale vaste en variabele warmtetarieven vast, omdat warmtenetgebruikers geen leverancier kunnen kiezen; voor 2026 daalt het maximale variabele tarief maar stijgen de maximale vaste kosten, met een omgekeerd effect voor laagverbruikers.
+- [[0066-consumenten-vinden-vergelijken-energiecontracten-moeilijk]] — onderzoek: meerderheid consumenten vindt het aantal leveranciers onoverzichtelijk en prijzen (door tijdelijke acties/welkomstkortingen) lastig te doorgronden; signaleert ook opdringerige telefonische werving en lagere tevredenheid bij warmtenetgebruikers, en roept leveranciers op te stoppen met telefonische werving.
 
 ## Zie ook
 - [[modeltoetsing]] · [[taxonomie]]

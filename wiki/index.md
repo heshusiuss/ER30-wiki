@@ -23,7 +23,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 
 - [x] **  3** · ESB · _Marktinrichting_ — Met juiste marktinrichting kan hernieuwbare energie bijdragen aan netbalans - ESB → [[0003-marktinrichting-hernieuwbare-energie-netbalans]]
 - [ ] **  9** · BNR · _Afhankelijkheid / import_ — Extreme kou zorgt voor gigantische stijging gasprijs  <https://www.bnr.nl/nieuws/economie/10592143/extreme-kou-zorgt-voor-gigantische-stijging-gasprijs>
-- [ ] ** 16** · BNR · _Contracten & arrangementen_ — Energievoorwaarden nog steeds onvoldoende helder, zegt Consumentenbond  <https://www.bnr.nl/nieuws/nieuws-politiek/10591552/energievoorwaarden-nog-steeds-onvoldoende-helder-zegt-consumentenbond>
+- [x] ** 16** · BNR · _Contracten & arrangementen_ — Energievoorwaarden nog steeds onvoldoende helder, zegt Consumentenbond → [[0016-energievoorwaarden-nog-steeds-onvoldoende-helder-zegt-consumentenbond]]
 - [x] ** 18** · BNR · _Overzicht / jaaroverzicht_ — Wonen wordt betaalbaarder, maar energierekening omhoog: dit verandert er dit jaar → [[0018-wonen-wordt-betaalbaarder-maar-energierekening-omhoog-dit-verandert-er-dit-jaar]]
 - [x] ** 20** · ESB · _Marktinrichting_ — Nederland loopt achter met vormgeven nieuwe energiemarkt → [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]]
 - [x] ** 21** · ESB · _Energieprijzen_ — [[0021-effecten-elektriciteitsprijzen]]  <https://esb.nu/effecten-elektriciteitsprijzen/>
@@ -36,7 +36,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [ ] ** 38** · BNR · _Gasprijs_ — Bodem van Nederlandse gasopslagen in zicht, leveringszekerheid niet in gevaar: ‘Markt doet zijn werk’  <https://www.bnr.nl/nieuws/nieuws-politiek/10593962/bodem-van-nederlandse-gasopslagen-in-zicht-leveringszekerheid-niet-in-gevaar-markt-doet-zijn-werk>
 - [x] ** 39** · Eneco · _Contracten & arrangementen_ — Loyaliteitesprogramma → [[0039-eneco-happypower-loyaliteitsprogramma]]
 - [x] ** 40** · Energievergelijker.nl · _Contracten & arrangementen_ — Overstapkosten, opzegtermijn → [[0040-overstapkosten-opzegtermijn-boetevrij]]
-- [ ] ** 45** · BNR · _Netkosten & transporttarieven_ — Terugleveren zonnestroom binnenkort amper rendabel  <https://bnr.nl/nieuws/duurzaamheid/10593620/terugleveren-zonnestroom-binnenkort-amper-rendabel>
+- [x] ** 45** · BNR · _Netkosten & transporttarieven_ — Terugleveren zonnestroom binnenkort amper rendabel → [[0045-terugleveren-zonnestroom-binnenkort-amper-rendabel]]
 - [x] ** 46** · PBL · _Marktinrichting_ — Analyse van de beprijzing van broeikasgasemissies in Nederland → [[0046-analyse-beprijzing-broeikasgasemissies-nederland]]
 - [x] ** 47** · BNR · _Compensatie_ — Zeeuws-Vlaanderen eist miljarden als kerncentrales daar worden gebouwd → [[0047-zeeuws-vlaanderen-eist-miljarden-als-kerncentrales-daar-worden-gebouwd]]
 - [ ] ** 48** · BNR · _Internationaal_ — Nederlandse industrie roept op om energieprijs gelijk te trekken met buurlanden  <https://www.bnr.nl/nieuws/economie/10589856/nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden>
@@ -47,7 +47,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 57** · BNR · _Beprijzing (belasting/heffing)_ — Benzine wordt duurder, maar hogere vermogenstaks gaat van tafel → [[0057-benzine-wordt-duurder-maar-hogere-vermogenstaks-gaat-van-tafel]]
 - [x] ** 58** · ESB · _Marktinrichting_ — Richt beleid op efficiënt gebruik schaarse energie → [[0058-richt-beleid-efficient-gebruik-schaarse-energie]]
 - [ ] ** 60** · BNR · _Contracten & arrangementen_ — Netbeheerders te traag met flexcontracten, toezichthouder eist verbeterplan  <https://www.bnr.nl/nieuws/economie/10588300/netbeheerders-te-traag-met-flexcontracten-toezichthouder-eist-verbeterplan>
-- [ ] ** 66** · BNR · _Begrijpelijkheid & toegankelijkheid_ — Consumenten vinden vergelijken energiecontracten moeilijk  <https://www.bnr.nl/nieuws/duurzaamheid/10587886/consumenten-vinden-vergelijken-energiecontracten-moeilijk>
+- [x] ** 66** · BNR · _Begrijpelijkheid & toegankelijkheid_ — Consumenten vinden vergelijken energiecontracten moeilijk → [[0066-consumenten-vinden-vergelijken-energiecontracten-moeilijk]]
 - [x] ** 67** · NOS · _Begrijpelijkheid & toegankelijkheid_ — [[0067-vereniging-eigen-huis-verbeteren-energielabel-voor-huiseigen]]  <https://nos.nl/collectie/13871/artikel/2590911-vereniging-eigen-huis-verbeteren-energielabel-voor-huiseigenaren-te-onduidelijk>
 - [ ] ** 69** · PBL · _Modellen & methodiek_ — KORTE BESCHRIJVING ENERGIEPRIJZENMODEL  <https://www.pbl.nl/sites/default/files/downloads/pbl-2019-kev-rekensysteem-korte-modelbeschrijving-energieprijzen_3834.pdf>
 - [ ] ** 71** · BNR · _Energieprijzen_ — ‘Energiekosten huishoudens nemen de komende jaren af in ontwikkelde economieën’  <https://www.bnr.nl/nieuws/tech-innovatie/10587454/energiekosten-huishoudens-nemen-de-komende-jaren-af-in-ontwikkelde-economieen>
@@ -55,9 +55,9 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [ ] ** 73** · BNR · _Energieprijzen_ — Inflatie in Nederland daalt licht naar 3,1 procent: ‘Vooral door lagere energieprijzen’  <https://www.bnr.nl/nieuws/duurzaamheid/10587246/stroomprijs-schiet-op-en-neer-door-windstilte-gevolgd-door-zon-en-warmte>
 - [x] ** 74** · The Guardian · _Internationaal_ — UK unveils 'carbon budget delivery plan' to get back on track for net zero targets → [[0074-vk-carbon-budget-delivery-plan]]
 - [x] ** 77** · BNR · _Energieprijzen_ — Helft Nederlanders vreest hoge kosten door energietransitie: 'Geld is zowel drempel als stimulans' → [[0077-helft-nederlanders-vreest-hoge-kosten-door-energietransitie]]
-- [ ] ** 79** · Rabobank · _Contracten & arrangementen_ — Duurzaamheidskorting  <https://www.rabobank.nl/particulieren/hypotheek/hypotheekrente/duurzaamheidskorting>
+- [x] ** 79** · Rabobank · _Contracten & arrangementen_ — Duurzaamheidskorting → [[0079-duurzaamheidskorting-op-je-hypotheekrente]]
 - [x] ** 81** · Eerlijk Verbruik · _Beprijzing (belasting/heffing)_ — [[0081-compensatie-hoge-energieprijzen-regeling-voor-huishoudens-me]]  <https://eerlijkverbruik.nl/blog/compensatie-hoge-energieprijzen-regeling-voor-huishoudens-met-blokverwarming/>
-- [ ] ** 85** · BNR · _Contracten & arrangementen_ — Veel huurders duurder uit met zonnepanelen  <https://bnr.nl/nieuws/duurzaamheid/10582053/veel-huurders-duurder-uit-met-zonnepanelen>
+- [x] ** 85** · BNR · _Contracten & arrangementen_ — Veel huurders duurder uit met zonnepanelen → [[0085-veel-huurders-duurder-uit-met-zonnepanelen]]
 - [x] ** 87** · The Guardian · _Internationaal_ — Cool Britannia: the heat pumps keeping pace with the UK's wild weather → [[0087-vk-warmtepompen-koeling-weer]]
 - [x] ** 88** · Energievergelijk.nl · _Beprijzing (belasting/heffing)_ — [[0088-betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-]]  <https://www.energievergelijk.nl/nieuws/betalen-voor-terugleveren-stroom-verleden-tijd-tweede-kamer-grijpt-in>
 - [x] ** 89** · The Guardian · _Internationaal_ — Fewer green energy tariffs offered as British households opt for cheaper deals → [[0089-vk-groene-energiecontracten-afname]]
