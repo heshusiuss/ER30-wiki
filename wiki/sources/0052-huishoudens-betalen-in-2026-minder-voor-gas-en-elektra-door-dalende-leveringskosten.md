@@ -4,7 +4,7 @@ titel: "Huishoudens betalen in 2026 minder voor gas en elektra door dalende leve
 uitgever: "BNR"
 type: "nieuws"
 auteur: ""
-datum: "2026-01-01"
+datum: ""
 themas: ["Energieprijzen"]
 mechanismen: ["energiebelasting", "salderen", "terugleververgoeding"]
 stakeholders: []

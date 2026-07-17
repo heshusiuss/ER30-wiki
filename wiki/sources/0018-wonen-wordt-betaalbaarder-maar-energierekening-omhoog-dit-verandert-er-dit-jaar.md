@@ -4,7 +4,7 @@ titel: "Wonen wordt betaalbaarder, maar energierekening omhoog: dit verandert er
 uitgever: "BNR"
 type: "nieuws"
 auteur: ""
-datum: "2026-01-01"
+datum: ""
 themas: ["Overzicht / jaaroverzicht"]
 mechanismen: ["energiebelasting", "netkosten-transporttarieven", "salderen", "terugleververgoeding"]
 stakeholders: []
