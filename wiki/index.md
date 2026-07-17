@@ -22,7 +22,7 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 ### 1. Open – direct te clippen  (52)
 
 - [x] **  3** · ESB · _Marktinrichting_ — Met juiste marktinrichting kan hernieuwbare energie bijdragen aan netbalans - ESB → [[0003-marktinrichting-hernieuwbare-energie-netbalans]]
-- [ ] **  9** · BNR · _Afhankelijkheid / import_ — Extreme kou zorgt voor gigantische stijging gasprijs  <https://www.bnr.nl/nieuws/economie/10592143/extreme-kou-zorgt-voor-gigantische-stijging-gasprijs>
+- [x] **  9** · BNR · _Gasprijs_ — Extreme kou zorgt voor gigantische stijging gasprijs → [[0009-extreme-kou-zorgt-voor-gigantische-stijging-gasprijs]]
 - [x] ** 16** · BNR · _Contracten & arrangementen_ — Energievoorwaarden nog steeds onvoldoende helder, zegt Consumentenbond → [[0016-energievoorwaarden-nog-steeds-onvoldoende-helder-zegt-consumentenbond]]
 - [x] ** 18** · BNR · _Overzicht / jaaroverzicht_ — Wonen wordt betaalbaarder, maar energierekening omhoog: dit verandert er dit jaar → [[0018-wonen-wordt-betaalbaarder-maar-energierekening-omhoog-dit-verandert-er-dit-jaar]]
 - [x] ** 20** · ESB · _Marktinrichting_ — Nederland loopt achter met vormgeven nieuwe energiemarkt → [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]]
@@ -33,13 +33,13 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 34** · Kennisvanenergie.nl · _Netkosten & transporttarieven_ — ACM-akkoord nettarieven 2027-2031: Wat betekent dit voor jouw energierekening en bedrijf? → [[0034-acm-akkoord-nettarieven-2027-2031]]
 - [x] ** 35** · De Groene Nerds · _Netkosten & transporttarieven_ — Nettarieven stroom worden tijdsafhankelijk: piekmomenten worden duurder → [[0035-nettarieven-tijdsafhankelijk-piekmomenten]]
 - [x] ** 36** · The Guardian · _Consumentengedrag_ — [[0036-people-like-cheap-energy-the-bagel-shop-saving-money-and-emi]]  <https://www.theguardian.com/environment/2026/feb/12/bagel-shop-saving-money-emissions-plug-in-batteries-brooklyn-new-york>
-- [ ] ** 38** · BNR · _Gasprijs_ — Bodem van Nederlandse gasopslagen in zicht, leveringszekerheid niet in gevaar: ‘Markt doet zijn werk’  <https://www.bnr.nl/nieuws/nieuws-politiek/10593962/bodem-van-nederlandse-gasopslagen-in-zicht-leveringszekerheid-niet-in-gevaar-markt-doet-zijn-werk>
+- [x] ** 38** · BNR · _Gasprijs_ — Bodem van Nederlandse gasopslagen in zicht, leveringszekerheid niet in gevaar: 'Markt doet zijn werk' → [[0038-bodem-van-nederlandse-gasopslagen-in-zicht-markt-doet-zijn-werk]]
 - [x] ** 39** · Eneco · _Contracten & arrangementen_ — Loyaliteitesprogramma → [[0039-eneco-happypower-loyaliteitsprogramma]]
 - [x] ** 40** · Energievergelijker.nl · _Contracten & arrangementen_ — Overstapkosten, opzegtermijn → [[0040-overstapkosten-opzegtermijn-boetevrij]]
 - [x] ** 45** · BNR · _Netkosten & transporttarieven_ — Terugleveren zonnestroom binnenkort amper rendabel → [[0045-terugleveren-zonnestroom-binnenkort-amper-rendabel]]
 - [x] ** 46** · PBL · _Marktinrichting_ — Analyse van de beprijzing van broeikasgasemissies in Nederland → [[0046-analyse-beprijzing-broeikasgasemissies-nederland]]
 - [x] ** 47** · BNR · _Compensatie_ — Zeeuws-Vlaanderen eist miljarden als kerncentrales daar worden gebouwd → [[0047-zeeuws-vlaanderen-eist-miljarden-als-kerncentrales-daar-worden-gebouwd]]
-- [ ] ** 48** · BNR · _Internationaal_ — Nederlandse industrie roept op om energieprijs gelijk te trekken met buurlanden  <https://www.bnr.nl/nieuws/economie/10589856/nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden>
+- [x] ** 48** · BNR · _Internationaal_ — Nederlandse industrie roept op om energieprijs gelijk te trekken met buurlanden → [[0048-nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden]]
 - [x] ** 50** · BNR · _Vergoedingen & tarieven_ — Mogelijk meer betalen bij zuinig gebruik warmtenet → [[0050-mogelijk-meer-betalen-bij-zuinig-gebruik-warmtenet]]
 - [x] ** 52** · BNR · _Energieprijzen_ — Huishoudens betalen in 2026 minder voor gas en elektra door dalende leveringskosten → [[0052-huishoudens-betalen-in-2026-minder-voor-gas-en-elektra-door-dalende-leveringskosten]]
 - [x] ** 54** · The Guardian · _Internationaal_ — Germany accused of ditching climate targets as it scraps renewables mandate → [[0054-duitsland-verwarmingswet-terugdraaien]]
@@ -50,8 +50,8 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 66** · BNR · _Begrijpelijkheid & toegankelijkheid_ — Consumenten vinden vergelijken energiecontracten moeilijk → [[0066-consumenten-vinden-vergelijken-energiecontracten-moeilijk]]
 - [x] ** 67** · NOS · _Begrijpelijkheid & toegankelijkheid_ — [[0067-vereniging-eigen-huis-verbeteren-energielabel-voor-huiseigen]]  <https://nos.nl/collectie/13871/artikel/2590911-vereniging-eigen-huis-verbeteren-energielabel-voor-huiseigenaren-te-onduidelijk>
 - [ ] ** 69** · PBL · _Modellen & methodiek_ — KORTE BESCHRIJVING ENERGIEPRIJZENMODEL  <https://www.pbl.nl/sites/default/files/downloads/pbl-2019-kev-rekensysteem-korte-modelbeschrijving-energieprijzen_3834.pdf>
-- [ ] ** 71** · BNR · _Energieprijzen_ — ‘Energiekosten huishoudens nemen de komende jaren af in ontwikkelde economieën’  <https://www.bnr.nl/nieuws/tech-innovatie/10587454/energiekosten-huishoudens-nemen-de-komende-jaren-af-in-ontwikkelde-economieen>
-- [ ] ** 72** · BNR · _Energieprijzen_ — Stroomprijs schiet op en neer door windstilte gevolgd door zon en warmte  <https://www.bnr.nl/nieuws/duurzaamheid/10587246/stroomprijs-schiet-op-en-neer-door-windstilte-gevolgd-door-zon-en-warmte>
+- [x] ** 71** · BNR · _Energieprijzen_ — 'Energiekosten huishoudens nemen de komende jaren af in ontwikkelde economieën' → [[0071-energiekosten-huishoudens-nemen-de-komende-jaren-af-in-ontwikkelde-economieen]]
+- [x] ** 72** · BNR · _Energieprijzen_ — Stroomprijs schiet op en neer door windstilte gevolgd door zon en warmte → [[0072-stroomprijs-schiet-op-en-neer-door-windstilte-gevolgd-door-zon-en-warmte]]
 - [ ] ** 73** · BNR · _Energieprijzen_ — Inflatie in Nederland daalt licht naar 3,1 procent: ‘Vooral door lagere energieprijzen’  <https://www.bnr.nl/nieuws/duurzaamheid/10587246/stroomprijs-schiet-op-en-neer-door-windstilte-gevolgd-door-zon-en-warmte>
 - [x] ** 74** · The Guardian · _Internationaal_ — UK unveils 'carbon budget delivery plan' to get back on track for net zero targets → [[0074-vk-carbon-budget-delivery-plan]]
 - [x] ** 77** · BNR · _Energieprijzen_ — Helft Nederlanders vreest hoge kosten door energietransitie: 'Geld is zowel drempel als stimulans' → [[0077-helft-nederlanders-vreest-hoge-kosten-door-energietransitie]]
@@ -68,8 +68,8 @@ Status `[ ]` = te doen, `[x]` = verwerkt (pagina in sources/).
 - [x] ** 98** · NOS · _Netkosten & transporttarieven_ — Kosten gebruik stroomnet verdrievoudigen: gemiddeld 1100 euro in 2040 → [[0098-kosten-stroomnet-verdrievoudigen-2040]]
 - [x] **100** · BNR · _Contracten & arrangementen_ — Enexis-klanten krijgen geld om minder stroom te leveren op zonnige dagen → [[0100-enexis-klanten-krijgen-geld-om-minder-stroom-te-leveren-op-zonnige-dagen]]
 - [x] **102** · BredaNu · _Begrijpelijkheid & toegankelijkheid_ — [[0102-aanvraag-noodfonds-energie-te-lastig-voor-veel-bredanaars-he]]  <https://bredanu.nl/nieuws/aanvraag-noodfonds-energie-te-lastig-voor-veel-bredanaars-het-lukt-gewoon-niet/>
-- [ ] **104** · BNR · _Energieprijzen_ — Gasprijs stijgt plots weer door forse concurrentie op lng-markt | BNR Nieuwsradio  <https://www.bnr.nl/nieuws/economie/10573114/gasprijs-stijgt-plots-weer-door-forse-concurrentie-op-lng-markt>
-- [ ] **105** · BNR · _Energieprijzen_ — Steeds vaker geld toe door negatieve energieprijs: ‘Stroomrekening gaat voor iedereen omlaag’  <https://www.bnr.nl/nieuws/duurzaamheid/10572910/steeds-vaker-geld-toe-door-negatieve-energieprijs-stroomrekening-gaat-voor-iedereen-omlaag>
+- [x] **104** · BNR · _Energieprijzen_ — Gasprijs stijgt plots weer door forse concurrentie op lng-markt → [[0104-gasprijs-stijgt-plots-weer-door-forse-concurrentie-op-lng-markt]]
+- [x] **105** · BNR · _Energieprijzen_ — Steeds vaker geld toe door negatieve energieprijs: 'Stroomrekening gaat voor iedereen omlaag' → [[0105-steeds-vaker-geld-toe-door-negatieve-energieprijs]]
 - [x] **106** · BNR · _Begrijpelijkheid & toegankelijkheid_ — Noodfonds Energie gesloten, 210.000 aanvragen in een week → [[0106-noodfonds-energie-gesloten-210000-aanvragen-in-een-week]]
 - [x] **109** · NOS · _Vergoedingen & tarieven_ — [[0109-berekening-terugleverkosten-zonnepanelen-moet-transparanter]]  <https://nos.nl/artikel/2559973-berekening-terugleverkosten-zonnepanelen-moet-transparanter>
 - [x] **114** · BNR · _Netkosten & transporttarieven_ — 11 miljard euro per jaar nodig voor toekomstbestendig stroomnet → [[0114-11-miljard-euro-per-jaar-nodig-voor-toekomstbestendig-stroomnet]]

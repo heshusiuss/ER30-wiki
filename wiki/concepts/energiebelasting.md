@@ -12,6 +12,8 @@ Tarieven en schijven zijn beleidsmatig instelbaar; onderwerp van koopkracht- en 
 - [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] — energiebelasting is één van de instrumenten die meetellen in de effectieve CO2-prijs die PBL toetst tegen de geschatte klimaatschade; zie [[co2-beprijzingstekort]].
 - [[0018-wonen-wordt-betaalbaarder-maar-energierekening-omhoog-dit-verandert-er-dit-jaar]] — 2026: stroombelasting -1 cent/kWh (-€29/jaar), maar hogere gasbelasting en lagere vaste belastingkorting samen +€33,50/jaar; per saldo een kleine netto-lastenverzwaring via de belastingcomponent alleen.
 - [[0052-huishoudens-betalen-in-2026-minder-voor-gas-en-elektra-door-dalende-leveringskosten]] — CBS: energiebelasting op gas stijgt in 2026, maar wordt in de totale rekening overstemd door dalende variabele leveringskosten — laat zien dat de belastingcomponent alleen niet de hele rekening bepaalt.
+- [[0071-energiekosten-huishoudens-nemen-de-komende-jaren-af-in-ontwikkelde-economieen]] — IEA-advies: CO2-beprijzingsopbrengsten (bv. accijns) gebruiken om kwetsbare huishoudens te ondersteunen, in plaats van beprijzing als enige verduurzamingsinstrument in te zetten.
+- [[0048-nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden]] — industriebedrijven wijzen energiebelasting (samen met transportkosten) aan als hoofdoorzaak van een hogere Nederlandse elektriciteitsrekening dan in Duitsland, ondanks een gelijke groothandelsprijs; bevestigt het eerder gesignaleerde verschil met de Duitse belastingverlaging voor energie-intensieve bedrijven.
 
 ## Zie ook
 - [[ets2-beprijzing]] · [[energiearmoede]] · [[co2-beprijzingstekort]] · [[modeltoetsing]]

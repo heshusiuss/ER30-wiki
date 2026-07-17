@@ -18,6 +18,8 @@ Stijgende post op de energierekening; hangt samen met netuitbreiding, netcongest
 - [[0002-uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet]] — CE Delft/Netbeheer Nederland bereiden een uurlijks gedifferentieerd transporttarief voor grootverbruikers op het regionale net voor (70.000-80.000 aansluitingen), naast bestaande capaciteitsbeperkingscontracten (CBC) en alternatieve transportrechten (ATR); op korte termijn max. 10% verschuiving, op lange termijn (na 2030) mogelijk dempend voor de totale netwerkkosten.
 - [[0056-energierekening-stijgt-huishoudens-betalen-in-2026-ruim-3-procent-meer]] — Netbeheer Nederland: nettarieven stijgen in 2026 gemiddeld, bij Liander concreet 5% (elektriciteit) en 11% (gas), ca. €4/maand meer per huishouden.
 - [[0114-11-miljard-euro-per-jaar-nodig-voor-toekomstbestendig-stroomnet]] — IBO-rapport: €195 miljard aan netinvesteringen nodig, resulterend in een geschatte tariefstijging van 4,8-6,7%; subsidie aan TenneT wordt geopperd om kosten verderop in de keten te dempen.
+- [[0071-energiekosten-huishoudens-nemen-de-komende-jaren-af-in-ontwikkelde-economieen]] — IEA (mondiaal, World Energy Outlook): netwerkinvesteringen blijven wereldwijd achter bij opwekinvesteringen (sinds 2015 bijna 70% meer investering in opwek, netwerken nog niet half zoveel) — hetzelfde patroon dat Nederlandse bronnen al concreet uitwerkten.
+- [[0048-nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden]] — industriebedrijven wijzen transportkosten (samen met belastingen) aan als hoofdoorzaak van een hogere Nederlandse elektriciteitsrekening dan in Duitsland, ondanks een gelijke groothandelsprijs.
 
 ## Zie ook
 - [[netcongestie]] · [[curtailment]] · [[energiearmoede]] · [[modeltoetsing]]
