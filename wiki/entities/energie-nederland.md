@@ -9,6 +9,7 @@
 - [[0003-marktinrichting-hernieuwbare-energie-netbalans]] — waarschuwde in 2021 dat opsplitsing van biedzones tot lagere liquiditeit leidt, wat de integratie van hernieuwbare energiebronnen in de [[balanceringsmarkt]] bemoeilijkt.
 - [[0034-acm-akkoord-nettarieven-2027-2031]] — mede-ondertekenaar van het marktbrede ACM-akkoord over nettarieven 2027-2031.
 - [[0016-energievoorwaarden-nog-steeds-onvoldoende-helder-zegt-consumentenbond]] — stelde na de rechterlijke afkeuring van het oude prijswijzigingsbeding herziene voorwaarden op voor alle Nederlandse energieleveranciers; de Consumentenbond vindt die nog steeds te breed geformuleerd.
+- [[0010-energie-nederland-helft-warmtebedrijven-verlies]] — luidt de noodklok over het voor het eerst sinds 2013 negatieve gewogen gemiddelde rendement van warmtebedrijven (-0,3% over 2024); pleit voor snelle invoering van kostengebaseerde warmtetarieven en verzet zich tegen de nieuwe RAR-boekhoudregels van de ACM, met name de verdeelsleutel van kosten tussen gereguleerde en ongereguleerde aansluitingen.
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]
