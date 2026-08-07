@@ -11,5 +11,7 @@
 - [[0096-energienota-omhoog-door-dure-aanleg-stroomnet-op-zee-zo-comp]] — aanleg van kabels en transformatorplatforms voor het net op zee (tientallen miljarden euro's) om windparkstroom aan land te brengen; kosten worden via de energienota over alle huishoudens omgeslagen.
 - [[0114-11-miljard-euro-per-jaar-nodig-voor-toekomstbestendig-stroomnet]] — IBO-rapport oppert subsidie aan TenneT als landelijk hoogspanningsbeheerder, om kosten verderop in de keten (bij regionale netbeheerders) te dempen.
 
+- [[0012-aanpak-netcongestie-op-zijn-kop]] — voor gebruik van het TenneT-net geldt al een tijdsafhankelijk tarief, genoemd als voorbeeld van een bestaand tariefinstrument tegenover het bekritiseerde veilingvoorstel voor netcongestie.
+
 ## Zie ook
 - [[modeltoetsing]] · [[index]]

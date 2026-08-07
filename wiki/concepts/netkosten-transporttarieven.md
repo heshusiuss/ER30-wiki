@@ -20,6 +20,7 @@ Stijgende post op de energierekening; hangt samen met netuitbreiding, netcongest
 - [[0114-11-miljard-euro-per-jaar-nodig-voor-toekomstbestendig-stroomnet]] — IBO-rapport: €195 miljard aan netinvesteringen nodig, resulterend in een geschatte tariefstijging van 4,8-6,7%; subsidie aan TenneT wordt geopperd om kosten verderop in de keten te dempen.
 - [[0071-energiekosten-huishoudens-nemen-de-komende-jaren-af-in-ontwikkelde-economieen]] — IEA (mondiaal, World Energy Outlook): netwerkinvesteringen blijven wereldwijd achter bij opwekinvesteringen (sinds 2015 bijna 70% meer investering in opwek, netwerken nog niet half zoveel) — hetzelfde patroon dat Nederlandse bronnen al concreet uitwerkten.
 - [[0048-nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden]] — industriebedrijven wijzen transportkosten (samen met belastingen) aan als hoofdoorzaak van een hogere Nederlandse elektriciteitsrekening dan in Duitsland, ondanks een gelijke groothandelsprijs.
+- [[0012-aanpak-netcongestie-op-zijn-kop]] — noemt, als achtergrond bij een veilingvoorstel voor netcongestie, twee nog niet eerder vastgelegde tariefdetails: alternatieve transportrechten (zoals het tijdsduurgebonden transportrecht) gaan gepaard met een korting, en de ACM consulteert een invoedingstarief om invoeders te stimuleren het net efficiënt te benutten.
 
 ## Zie ook
 - [[netcongestie]] · [[curtailment]] · [[energiearmoede]] · [[modeltoetsing]]

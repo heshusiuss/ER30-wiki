@@ -10,5 +10,7 @@
 - [[0002-uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet]] — trekt (op basis van CE Delft-onderzoek) een codewijzigingsvoorstel voor tijdsafhankelijke nettarieven voor grootverbruikers op het regionale net, in te dienen bij de ACM.
 - [[0056-energierekening-stijgt-huishoudens-betalen-in-2026-ruim-3-procent-meer]] — meldt dat nettarieven voor huishoudens in 2026 gemiddeld stijgen, met een verschil per netbeheerder en aansluitcapaciteit.
 
+- [[0012-aanpak-netcongestie-op-zijn-kop]] — werkt, naast het in [[0002-uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet]] genoemde grootverbruikersvoorstel, ook aan een ander nettarief voor kleinverbruikers om de piekbelasting op het net te verlagen.
+
 ## Zie ook
 - [[modeltoetsing]] · [[index]]
