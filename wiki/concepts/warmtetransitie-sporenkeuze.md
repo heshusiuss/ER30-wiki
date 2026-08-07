@@ -9,6 +9,7 @@ Een warmtenet heeft een lange aanlooptijd en hoge vaste infrastructuurkosten die
 
 ## Bronnen die dit noemen
 - [[0005-rekenkamer-warmtepomp-zit-warmtenet-in-de-weg]] — Algemene Rekenkamer: in 307 van 325 wijken met een warmtenet (2022) is tussen 2016-2022 ook warmtepompsubsidie verstrekt; nog geen grootschalig probleem, maar wel een groeiend risico. Advies: geen warmtepompsubsidie in wijken waar dat de warmtenet-uitrol in de weg zit. De ministers van VRO/KGG achten dit advies nu moeilijk uitvoerbaar (geen officieel document dat een wijk als warmtenetwijk aanwijst) en verwachten bovendien dat de overlap in de praktijk zal meevallen — een verwachting die de Rekenkamer in een nawoord expliciet weerspreekt.
+- [[0008-den-haag-verplichte-aardgas-stop-32-wijken]] — Den Haag splitst wijken in het concept-Warmteprogramma naar middentemperatuur-net (collectief), lagetemperatuur-oplossing (individueel of collectief) of een mix; ook na inzet van de [[aanwijsbevoegdheid-warmteprogramma]] blijft de keuze voor een aardgasloos alternatief (warmtenet-aansluiting of eigen warmtepomp) bij de bewoner. Dit is het eerste concrete voorbeeld van een formeel document (het Warmteprogramma) dat een wijk aanwijst — mogelijk relevant voor het uitvoeringsgat dat [[0005-rekenkamer-warmtepomp-zit-warmtenet-in-de-weg]] signaleerde, al wijst het Warmteprogramma aan voor gas-stop in het algemeen en niet expliciet voor "warmtenetwijk" in de zin die de Rekenkamer bedoelde.
 
 ## Zie ook
-- [[warmtenet-tarieven]] · [[warmtepompen-verwarmingstransitie]] · [[modeltoetsing]]
+- [[warmtenet-tarieven]] · [[warmtepompen-verwarmingstransitie]] · [[aanwijsbevoegdheid-warmteprogramma]] · [[gemeenten]] · [[modeltoetsing]]
