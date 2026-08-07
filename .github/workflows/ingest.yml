@@ -57,6 +57,7 @@ jobs:
         if: steps.check.outputs.found == 'true'
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          show_full_output: "true" # TIJDELIJK: diagnose is_error:true, verwijder na debuggen
           prompt: |
             REPO: ${{ github.repository }}
 
