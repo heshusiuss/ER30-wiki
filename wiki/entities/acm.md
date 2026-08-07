@@ -15,6 +15,7 @@
 - [[0066-consumenten-vinden-vergelijken-energiecontracten-moeilijk]] — onderzoek: meerderheid consumenten vindt het aantal leveranciers onoverzichtelijk en prijzen (door tijdelijke acties/welkomstkortingen) lastig te doorgronden; signaleert ook opdringerige telefonische werving en lagere tevredenheid bij warmtenetgebruikers, en roept leveranciers op te stoppen met telefonische werving.
 - [[0002-uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet]] — beoordeelt het aankomende codewijzigingsvoorstel van Netbeheer Nederland voor tijdsafhankelijke nettarieven voor grootverbruikers op het regionale net.
 - [[0060-netbeheerders-te-traag-met-flexcontracten-toezichthouder-eist-verbeterplan]] — eist voor het eerst van alle netbeheerders gezamenlijk een formeel verbeterplan tegen netcongestie/trage flexcontracten, na onvoldoende resultaat uit reguliere gesprekken.
+- [[0005-rekenkamer-warmtepomp-zit-warmtenet-in-de-weg]] — kon volgens de Algemene Rekenkamer pas met de komst van een rendementstoets echt in de cijfers van individuele warmtebedrijven duiken (consumenten waren tot 2024 onvoldoende beschermd tegen te hoge tarieven); onderzoekt nu vijf warmtebedrijven nader. De Rekenkamer adviseert de rendementstoets na afloop te evalueren; de ministers achten dat niet nodig vanwege de nieuwe, kostengebaseerde tariefsystematiek onder de Wet collectieve warmte (Wcw).
 
 ## Zie ook
 - [[modeltoetsing]] · [[taxonomie]]

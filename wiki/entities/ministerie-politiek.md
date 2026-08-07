@@ -13,6 +13,7 @@
 - [[0023-na-beperking-accijnskorting-prijzen-aan-de-pomp-omhoog]] — na verkiezingswinst van het CDA draait de Kamer de accijnskorting op benzine deels terug; opbrengst deels naar het OV. Randgeval: gaat over brandstofaccijns, niet over de gas/elektriciteitsrekening.
 - [[0057-benzine-wordt-duurder-maar-hogere-vermogenstaks-gaat-van-tafel]] — Tweede Kamer stemt over het volledige herziene belastingplan: accijnskorting deels teruggedraaid, hogere vermogensbelasting afgewezen (gedekt door versnelde afbouw Wet Hillen), privéjet-toeslag vanaf 2030 aangenomen.
 - [[0114-11-miljard-euro-per-jaar-nodig-voor-toekomstbestendig-stroomnet]] — klimaatminister Sophie Hermans ontvangt een IBO-rapport (€195 miljard netinvesteringen, 20.000 aansluitingen op de wachtlijst) en staat voor de investeringsopgave.
+- [[0005-rekenkamer-warmtepomp-zit-warmtenet-in-de-weg]] — de ministers van VRO en KGG onderschrijven een groot deel van de Rekenkamer-conclusies over de overlap tussen warmtepomp- en warmtenetbeleid, maar achten het uitsluiten van warmtepompsubsidie per wijk nu moeilijk uitvoerbaar (geen officieel document dat een wijk als warmtenetwijk bestempelt) en verwachten dat de overlap in de praktijk zal meevallen — wat de Rekenkamer in een nawoord expliciet weerspreekt. Verwijzen naar de nieuwe Wet gemeentelijke instrumenten warmtetransitie (Wgiw, gebaseerd op gemeentelijke warmteprogramma's) en de Wet collectieve warmte (Wcw, kostengebaseerde tariefsystematiek) als instrumenten.
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]
