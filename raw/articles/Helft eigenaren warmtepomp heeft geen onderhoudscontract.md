@@ -1,0 +1,33 @@
+Bijna de helft van de warmtepompeigenaren heeft geen onderhoudscontract, blijkt uit de Installatiemonitor van adviesbureau BDH, in opdracht van de Rijksdienst van Ondernemend Nederland (RVO) en de brancheorganisaties Techniek Nederland en Netbeheer Nederland. Een kwart van de warmtepompeigenaren heeft een dynamische energiecontract, ruim de helft zit daar juist niet op te wachten.
+
+Belangenclub Vereniging Eigen Huis opende ruim een jaar geleden een meldpunt voor klachten over onderhoud van warmtepompen. Warmtepompeigenaren konden geen onderhoudsmonteur vinden, of de warmtepomp was op een plek geplaatst waar installateurs liever geen onderhoud plegen, zoals het dak. Die boodschap is overigens geland, bleek vorige week [op de installatiebeurs VSK+E](https://energeia.nl/propaan-en-slimmer-installeren-drijven-innovatie-warmtepomp/), waar veel aandacht was voor de bereikbaarheid van de warmtepomp.
+
+Van de ondervraagde warmtepompeigenaren (het gaat om zowel hybride als geheel elektrische installaties) in de Installatiemonitor heeft 48% geen onderhouds- of servicecontract afgesloten. Eveneens 48% heeft dat wel, waarvan de overgrote meerderheid via de leverancier of installateur van de warmtepomp (42 procentpunt). Ruim 70% van de ondervraagden verwacht om het jaar onderhoud te moeten plegen – bijna een vijfde verwacht alleen onderhoud te hoeven doen bij problemen.
+
+## Dynamische contracten
+
+Slimme aansturing van apparaten is een ander thema dat de laatste jaren meer aandacht krijgt (wederom, ook op de VSK+E beurs). Apparaten die veel energie verbruiken, zoals warmtepompen, laadpunten, thuisbatterijen en zonnepanelen, worden dan op- of afgeschakeld op basis van bijvoorbeeld energietarieven of de hoeveelheid stroom uit de eigen zonnepanelen. Op die manier kan bijvoorbeeld de stroom van eigen dak maximaal worden ingezet, of de energierekening laag worden gehouden.
+
+De Installatiemonitor laat zien dat minder dan de helft van de warmtepompeigenaren slimme sturing toepast. Van de ondervraagden zegt 56% noch de warmtepomp, noch eventuele andere apparaten in huis slim aan te sturen. Zo’n 9% laat de warmtepomp wel slim aansturen, en van de ondervraagden die ook hun tapwater elektrisch verwarmen, stuurt 10% dat proces slim aan. Huishoudens met een thuisbatterij sturen die over het algemeen slim aan, net als een flink deel van de huishoudens met een eigen laadpunt voor de elektrische auto. 13% van de ondervraagden stuurt alles in huis slim aan met een energiemanagementsysteem, dat optimaliseert op prijs, comfort of eigen verbruik.
+
+## Dynamische contracten
+
+Slimme aansturing gaat vaak hand in hand met een contract met dynamische tarieven. Sturen op het moment dat de tarieven laag zijn, heeft financieel geen zin als de tarieven voor een langere periode vastliggen. Toch heeft slechts 26% van de ondervraagden een contract met dynamische tarieven. 59% zegt ook geen contract met dynamische tarieven te willen, terwijl zo’n 14% daar wel oren naar heeft. De resterende 1% weet het nog niet.
+
+Opvallend, maar niet verrassend, is dat contracten met dynamische tarieven populairder zijn bij huishoudens met thuisbatterijen en/of een eigen laadpunt. Andersom geldt dat ook: de huishoudens met een dynamisch contract geven vaker aan hun apparaten slim aan te sturen, zo blijkt uit de Installatiemonitor. Hoe meer apparaten, hoe meer winst, comfort of eigen verbruik er namelijk valt te behalen met slimme aansturing. De twee belangrijkste redenen om voor slimme sturing te kiezen, zijn het verlagen van de kosten (29%) en het verhogen van het verbruik van zelfopgewekte stroom (25%).
+
+Specifiek over de warmtepomp, geeft ruim 9% van de ondervraagden aan dat die slim wordt aangestuurd. Dat gaat in twee derde van de gevallen via een energiemanagementsysteem, en in een derde van de gevallen via een systeem van de warmtepomp zelf. De wens is er wel om de warmtepomp slim aan te sturen, zo blijkt: bijna 30% van de ondervraagden geeft aan daarvoor open te staan. Ruim een vijfde (22%) wil dat daarentegen helemaal niet. Zo’n 3% weet niet hoe het nu zit, en de meerderheid, 36%, laat de warmtepomp een eigen optimaal schema kiezen, op basis van de thermostaat.
+
+## 8+
+
+Warmtepompeigenaren zijn over het algemeen tevreden met de al dan niet hybride warmtepomp. Redenen daarvoor zijn lagere kosten, een duurzamere woning en meer verbruik van zelfopgewekte stroom. Een derde van de ondervraagden kan desgevraagd überhaupt geen nadelen bedenken. Het meest genoemde nadeel is dat huishoudens nog niet van het aardgas af zijn (dat geldt voor degenen met een hybride warmtepomp). Daarnaast noemt een deel ook het geluid (17%), het ruimtebeslag (13%) en dat de installatie veel gedoe is (13%).
+
+De enquête is gehouden onder 1.818 warmtepompeigenaren (uiteenvallend in 1.186 hybride- en 605 all-electric warmtepompen) in de bestaande bouw. De onderzoekers bevroegen de warmtepompeigenaren over onderhoud, mogelijkheden voor koeling, slimme sturing en gebruik van dynamische energiecontracten. De eigenaren zijn over het algemeen tevreden met de warmtepomp, die zij gemiddeld een 8,2 geven. Dat is hetzelfde cijfer als [bij de vorige vragenronde](https://energeia.nl/warmtepomp-gooit-hoge-ogen-installatie-kan-nog-beter/), die met name ging over de ervaringen met het installatieproces. Nu lag de focus dus op het gebruik in huis.
+
+## Installatiemonitor
+
+Het project Installatiemonitor is een initiatief van de Rijksdienst voor Ondernemend Nederland (RVO), Netbeheer Nederland en Techniek Nederland. Ingenieursbureau BDH voert de monitoring uit.
+
+De eerste fase van het project, [van 2019 tot 2021](https://energeia.nl/rvo-start-onderzoek-naar-warmtepompen-in-huis/), resulteerde in een rapport over de netimpact van warmtepompen op basis van 450 woningen. De onderzoekers zagen risico op [pieken op het net door de inzet van hybride warmtepompen](https://energeia.nl/hybride-warmtepompen-zorgen-voor-pieken-op-het-elektriciteitsnet/). Daarna volgde [een tweede rapport over netimpact](https://energeia.nl/warmtepomp-mag-warmtenet-niet-belemmeren-van-hermans/), nu op basis van 6.000 woningen, waaruit bleek dat de gevreesde grote vermogensvraag door warmtepompen meeviel. [Een onderzoek van bureau Merosch](https://energeia.nl/beleidsmakers-hebben-geen-focus-op-warmtepompen/) had eerder ook al die kant op gewezen.
+
+De huidige fase van het Installatiemonitor-project loopt nog tot het midden van dit jaar. Daarin kijken de onderzoekers vooral naar de factoren die de inzet van de warmtepomp beïnvloeden, en de ervaring van gebruikers. Met 6.000 deelnemers is de Installatiemonitor het grootste onderzoek in Europa naar warmtepompen in de praktijk.

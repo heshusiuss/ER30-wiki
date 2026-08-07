@@ -1,0 +1,17 @@
+Per 1 januari 2029 kan het kabinet een verlaging van de energiebelasting voor huishoudens doorvoeren, zoals de Tweede Kamer na Prinsjesdag heeft gevraagd. Eerdere doorvoering is praktisch onmogelijk. Dit meldt demissionair staatssecretaris Eugène Heijnen (Financiën, BBB) dinsdag in een brief aan de Tweede Kamer.
+
+Het verzoek kwam middels een motie van Tweede Kamerlid Eddy van Hijum (NSC) tijdens het debat na Prinsjesdag op 18 september jongstleden. Deze motie kreeg steun van een brede coalitie van partijen ter linker- en rechterzijde, maar ontbeerde juist steun van partijen als D66, CDA en VVD die geacht worden midden in het spectrum te staan. De stemmen vóór de motie kwamen van GroenLinks-PvdA, PvdD, DENK, Volt, NSC, ChristenUnie, SGP, JA21, FVD en PVV voor een totaal van 99 stemmen.
+
+De motie vraagt om een doelwijziging van een bestaande korting op de energiebelasting. Sinds 2015 geldt deze vermindering voor onroerende zaken die een “verblijfsfunctie” hebben. Dat betekent dat niet alleen woningen onder de korting vallen, maar ook bedrijfsruimtes. De motie van Van Hijum vraagt het kabinet daarom om de omschrijving “verblijfsfunctie” te vervangen door “woonfunctie”, zodat de korting alleen huishoudens ten goede komt.
+
+## €525 per aansluiting
+
+In 2025 bedroeg de korting, aldus het ministerie, €525 per aansluiting. Als bedrijven de korting in de toekomst niet meer ontvangen, worden aan die kant de inkomsten uit de energiebelasting hoger. Staatssecretaris Heijnen schat die opbrengst voor de staat nu op ruim €400 mln, maar eerder onderzoek kwam tot €427 mln. Met die inkomsten kan de overheid de korting voor huishoudens juist verhogen met een vergelijkbaar bedrag. Daarmee zou het resultaat van het verzoek voor de overheid in principe budgetneutraal zijn.
+
+Ambtenaren werken hard aan uitvoering van de motie, meldt de staatssecretaris, maar het vergt wel enige tijd. Uitvoerders zijn namelijk de energieleveranciers die de belasting via de energierekening bij de klant in rekening brengen. Om te weten op welk adres huishoudens wonen, hebben de energieleveranciers onder meer gegevens nodig uit de Basisregistratie Adressen en Gebouwen (BAG), waarover zij nu niet beschikken. Niet alleen moeten zij die gegevens krijgen, er moet ook een wettelijke grondslag komen om hen van die gegevens te voorzien. Zo’n wetswijziging kost tijd, noteert Heijnen.
+
+## Waarschuwing
+
+Al met al voorziet Heijnen dat huishoudens pas in 2029 van een hogere korting zullen kunnen genieten. Om die reden waarschuwt Heijnen de Tweede Kamer nu al voor een ander voorstel uit de koker van NSC. Kamerlid Bram Kouwenhoven (NSC) heeft bij de behandeling van het Belastingplan op 1 oktober namelijk een amendement ingediend voor een versnelde uitvoering van de motie van zijn collega Van Hijum.
+
+“Het amendement gaat uit van inwerkingtreding van de maatregel per 1 januari 2026”, schrijft Heijnen. “Die termijn is niet haalbaar. Als het amendement wordt aangenomen, ontstaat een onwerkbare situatie. Het zou leiden tot onduidelijkheid en onzekerheid in de praktijk, ook bij klanten van energieleveranciers.” Het ministerie gaat er vanuit dat de stemming over het Belastingplan in de Tweede Kamer pas eind november plaatsheeft.

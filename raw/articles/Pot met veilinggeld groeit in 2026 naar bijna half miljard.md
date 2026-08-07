@@ -1,0 +1,31 @@
+De ACM geeft goedkeuring aan het voorstel van TenneT voor de besteding van de inkomsten uit het veilen van grensoverschrijdende transportcapaciteit. Dat betekent dat er in 2026 geen veilinggeld gebruikt wordt om de transporttarieven te dempen. De pot met veilinggeld groeit naar bijna €460 mln eind 2026 en moet dienen als buffer voor onzekere inkomsten en uitgaven in de jaren na 2026.
+
+TenneT beheert de zogenoemde interconnectoren (de grensoverschrijdende verbindingen) met België, Duitsland, Noorwegen en Denemarken in samenwerking met de betrokken beheerders van het hoogspanningsnet in die landen. (De BritNed-verbinding met Groot-Brittannië kent een andere regeling.) Als de vraag naar capaciteit op een verbinding groter is dan het aanbod, en er dus congestie optreedt op zo’n grensovergang, dan wordt deze capaciteit geveild. De transmissienetbeheerders krijgen hier inkomsten uit, die ook wel congestie-ontvangsten worden genoemd.
+
+Tegenover die inkomsten staan ook kosten, bijvoorbeeld voor het oplossen van grensoverschrijdende beperkingen – zogenoemde redispatchkosten. Redispatch is vaak nodig om de maximale capaciteit op de interconnectoren te handhaven, en houdt in dat TenneT producenten of grootverbruikers tegen betaling opdracht geeft om in een bepaalde regio op- of af te schakelen, zodat er elders geen congestie optreedt op het transmissienetwerk. Buiten het congestiegebied moeten andere producenten of afnemers opnieuw tegen betaling tegengesteld handelen om vraag en aanbod in balans te houden.
+
+Jaarlijks moet TenneT aan de Autoriteit Consument & Markt (ACM) een voorstel doen voor de besteding van de congestie-ontvangsten in het komende jaar. [Dat deed TenneT in november](https://energeia.nl/tennet-geen-tariefdemping-uit-veilinginkomsten-in-2026/). Op basis van dat voorstel publiceerde de ACM deze week een besluit waarmee het voorstel wordt goedgekeurd.
+
+## NorNed-boete houdt aan
+
+Ook in 2026 rekent TenneT erop dat het een zogenoemde malus moet betalen vanwege beperkte beschikbaarheid van de NordNed-kabel. Dat blijkt uit de analyse van de inkomsten en uitgaven rond de grensoverschrijdende transportverbindingen. In de verwachtingen voor 2026 staat de malus ingeboekt voor €1,97 mln. Voor 2025 kwam deze uit op €1,92 mln.
+
+De beschikbaarheid van de NorNed-verbinding wordt berekend door voor alle uren in een kalenderjaar het aantal megawatt op te tellen dat aan marktpartijen beschikbaar is gekomen. De maximale beschikbare capaciteit over het gehele jaar is in theorie dus 6.132.000 MW – dit is het product van de 8.760 uren van dat jaar en het maximale vermogen van 700 MW van de kabel. Als de beschikbaarheid groter is dan 95,62%, krijgt TenneT een bonus. Ligt de beschikbaarheid lager, dan volgt een malus.
+
+In 2022 is de NorNed-verbinding langdurig uit bedrijf geweest als gevolg van een kabelbreuk. Sinds oktober 2022 is de NorNed-verbinding weer in bedrijf genomen, maar met beperkte transportcapaciteit. De maximale capaciteit die TenneT momenteel beschikbaar kan stellen op de kabel bedraagt 620 MW, [aldus de transmissienetbeheerder](https://energeia.nl/norned-weer-gerepareerd-maar-blijft-nog-gemankeerd/) [eerder dit jaar](https://energeia.nl/norned-weer-gerepareerd-maar-blijft-nog-gemankeerd/).
+
+TenneT rekent erop dat het beschikbare vermogen voorlopig gemaximeerd blijft op 620 MW. De reden voor de beperking ligt in Noorwegen, waar werkzaamheden aan het landstation plaatsvinden. TenneT verwacht dat die werkzaamheden in de zomer van 2026 gereed zijn. Dat betekent dat TenneT niet kan voldoen aan de gewenste beschikbaarheid, en dus ook volgend jaar weer een boete moet betalen. Het zou het negende jaar op rij zijn dat de NorNed-kabel niet voldoet aan de beschikbaarheidscriteria.
+
+## Geen tariefdemping
+
+De ontvangsten tellen in 2025 op tot ongeveer €263 mln, en daartegenover staan kosten die optellen tot €108 mln. Dit is nog een schatting, omdat de werkelijke kosten en inkomsten van de maand december nog niet bekend zijn. (De cijfers vormen een update ten opzichte van het voorstel in november, toen TenneT de werkelijke inkomsten en uitgaven tot en met augustus gebruikte en vanaf september een schatting deed. In de update zijn zowel bij de inkomsten als bij de kosten bijstellingen van enkele miljoenen te zien.) De schatting voor 2026 komt neer op €236 mln aan inkomsten en €104 mln aan uitgaven.
+
+Conform het voorstel worden de congestie-ontvangsten komend jaar niet gebruikt om de tarieven te dempen. In 2025 werd hiervoor nog €160 mln uitgetrokken. Maar [omdat in 2026 de tarieven van TenneT sowieso al dalen](https://energeia.nl/netwerkkosten-regionale-net-stijgen-in-2026-met-34/), wordt het geld komend jaar hier niet voor aangewend.
+
+De pot met veilinggeld groeit daarom naar verwachting tot €459,7 mln eind 2026. Zowel TenneT als de ACM lijkt het verstandig om dit geld als buffer te gebruiken voor de jaren na 2026. Vanaf dan bestaat er volgens de ACM “een hoge mate van onzekerheid over zowel de congestie-ontvangsten zelf, maar ook de kosten voor redispatch gerelateerd aan kritieke netwerkelementen”. De buffer kan gebruikt worden voor het geval de inkomsten tegenvallen of wanneer de kosten veel hoger uitvallen. Als dat zich niet voordoet, kan het geld alsnog gebruikt worden om toekomstige tariefstijgingen te dempen.
+
+## Redispatchkosten
+
+Dat redispatchkosten de pan uit kunnen rijzen, bewijst het verleden. Waar in 2025 de redispatchkosten worden geschat op €31 mln, kwamen deze kosten in 2021 uit op €299 mln, in 2022 op €330 mln en in 2023 werd €132 mln uitgegeven aan redispatch. Dat deze kosten aan grote schommelingen onderhevig zijn blijkt uit het bedrag dat in 2024 werd uitgegeven: €17 mln.
+
+Voor de jaren na 2026 verwacht TenneT dat de redispatchkosten weer zullen groeien, vooral omdat werkzaamheden aan het hoogspanningsnet zullen zorgen voor langdurige afschakeling van verbindingen, wat automatisch betekent dat redispatch vaker nodig zal zijn. TenneT benadrukt dat de verwachte kosten onderhevig zijn aan “een hoge schattingsonzekerheid”.
