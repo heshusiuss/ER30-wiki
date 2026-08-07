@@ -10,6 +10,7 @@
 - [[0034-acm-akkoord-nettarieven-2027-2031]] — mede-ondertekenaar van het marktbrede ACM-akkoord over nettarieven 2027-2031.
 - [[0016-energievoorwaarden-nog-steeds-onvoldoende-helder-zegt-consumentenbond]] — stelde na de rechterlijke afkeuring van het oude prijswijzigingsbeding herziene voorwaarden op voor alle Nederlandse energieleveranciers; de Consumentenbond vindt die nog steeds te breed geformuleerd.
 - [[0010-energie-nederland-helft-warmtebedrijven-verlies]] — luidt de noodklok over het voor het eerst sinds 2013 negatieve gewogen gemiddelde rendement van warmtebedrijven (-0,3% over 2024); pleit voor snelle invoering van kostengebaseerde warmtetarieven en verzet zich tegen de nieuwe RAR-boekhoudregels van de ACM, met name de verdeelsleutel van kosten tussen gereguleerde en ongereguleerde aansluitingen.
+- [[0013-brancheclubs-mordicus-tegen-invoedingstarief]] — voorzitter Femke Brenninkmeijer roept de ACM op af te zien van een [[invoedingstarief]] ("hangt als een donkere wolk boven Nederland"); liet onderzoeksbureau Aurora berekenen dat verminderde binnenlandse opwek tot €1,4 mrd/jaar extra importkosten kan opleveren, rechtstreeks bij huishoudens en bedrijven. Sluit hierin aan bij [[nvde]], [[holland-solar]], [[nedzero]] en [[energie-samen]].
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]

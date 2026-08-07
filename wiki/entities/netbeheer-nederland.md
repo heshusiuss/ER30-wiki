@@ -11,6 +11,7 @@
 - [[0056-energierekening-stijgt-huishoudens-betalen-in-2026-ruim-3-procent-meer]] — meldt dat nettarieven voor huishoudens in 2026 gemiddeld stijgen, met een verschil per netbeheerder en aansluitcapaciteit.
 
 - [[0012-aanpak-netcongestie-op-zijn-kop]] — werkt, naast het in [[0002-uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet]] genoemde grootverbruikersvoorstel, ook aan een ander nettarief voor kleinverbruikers om de piekbelasting op het net te verlagen.
+- [[0013-brancheclubs-mordicus-tegen-invoedingstarief]] — netbeheerders lieten eerder al weten vóórstander te zijn van een [[invoedingstarief]] voor elektriciteitsproducenten (netefficiëntie-argument) — een positie die in deze bron expliciet haaks staat op het unanieme verzet van de duurzame-energie-brancheorganisaties.
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]

@@ -20,6 +20,7 @@
 - [[0005-rekenkamer-warmtepomp-zit-warmtenet-in-de-weg]] — kon volgens de Algemene Rekenkamer pas met de komst van een rendementstoets echt in de cijfers van individuele warmtebedrijven duiken (consumenten waren tot 2024 onvoldoende beschermd tegen te hoge tarieven); onderzoekt nu vijf warmtebedrijven nader. De Rekenkamer adviseert de rendementstoets na afloop te evalueren; de ministers achten dat niet nodig vanwege de nieuwe, kostengebaseerde tariefsystematiek onder de Wet collectieve warmte (Wcw).
 
 - [[0012-aanpak-netcongestie-op-zijn-kop]] — consulteert een invoedingstarief om invoeders te stimuleren het elektriciteitsnet efficiënt te benutten; gaf netbeheerders eind vorig jaar de opdracht om vóór 6 februari met verbeterplannen voor slimmer netgebruik te komen (aanvulling op [[0060-netbeheerders-te-traag-met-flexcontracten-toezichthouder-eist-verbeterplan]]).
+- [[0013-brancheclubs-mordicus-tegen-invoedingstarief]] — eerste reacties op de [[invoedingstarief]]-consultatie (gestart november) zijn binnen: vijf duurzame-energie-brancheorganisaties unaniem tegen. De ACM heeft zelf een voorkeur voor een 50/50-verdeling van kosten tussen invoeders en afnemers; vraagt de markt ook naar voorkeur voor een kWh- vs. vermogenstarief, tijdsdifferentiatie en uitzonderingen voor wind op zee/batterijen/kleinverbruikers.
 
 ## Zie ook
 - [[modeltoetsing]] · [[taxonomie]]

@@ -21,6 +21,7 @@ Stijgende post op de energierekening; hangt samen met netuitbreiding, netcongest
 - [[0071-energiekosten-huishoudens-nemen-de-komende-jaren-af-in-ontwikkelde-economieen]] — IEA (mondiaal, World Energy Outlook): netwerkinvesteringen blijven wereldwijd achter bij opwekinvesteringen (sinds 2015 bijna 70% meer investering in opwek, netwerken nog niet half zoveel) — hetzelfde patroon dat Nederlandse bronnen al concreet uitwerkten.
 - [[0048-nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden]] — industriebedrijven wijzen transportkosten (samen met belastingen) aan als hoofdoorzaak van een hogere Nederlandse elektriciteitsrekening dan in Duitsland, ondanks een gelijke groothandelsprijs.
 - [[0012-aanpak-netcongestie-op-zijn-kop]] — noemt, als achtergrond bij een veilingvoorstel voor netcongestie, twee nog niet eerder vastgelegde tariefdetails: alternatieve transportrechten (zoals het tijdsduurgebonden transportrecht) gaan gepaard met een korting, en de ACM consulteert een invoedingstarief om invoeders te stimuleren het net efficiënt te benutten.
+- [[0013-brancheclubs-mordicus-tegen-invoedingstarief]] — eerste reacties op de ACM-consultatie over het [[invoedingstarief]] (zie die pagina voor de details): vijf duurzame-energie-brancheorganisaties unaniem tegen, netbeheerders eerder al vóórstander — nu apart uitgewerkt op een eigen conceptpagina omdat het instrument (tarief aan invoedingskant, i.p.v. afname) inhoudelijk afwijkt van de overige nettarieven op deze pagina.
 
 ## Zie ook
-- [[netcongestie]] · [[curtailment]] · [[energiearmoede]] · [[modeltoetsing]]
+- [[netcongestie]] · [[curtailment]] · [[energiearmoede]] · [[invoedingstarief]] · [[modeltoetsing]]
