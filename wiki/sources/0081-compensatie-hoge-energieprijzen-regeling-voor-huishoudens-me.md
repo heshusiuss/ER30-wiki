@@ -6,7 +6,7 @@ type: "uitleg"
 auteur: ""
 datum: ""
 themas: ["Beprijzing (belasting/heffing)", "Compensatie"]
-mechanismen: ["energiearmoede"]
+mechanismen: ["energiearmoede", "toegankelijkheid-regelingen"]
 stakeholders: ["Noodfonds Energie"]
 scope: "NL"
 toegang: "open"
@@ -28,6 +28,7 @@ Huishoudens met een blokaansluiting (blokverwarming en/of blok-elektriciteit) vi
 ## Genoemde mechanismen
 - Uitsluiting van blokaansluitingen van generieke compensatie-instrumenten ([[noodfonds-energie]]) — een uitvoeringslek in het bredere compensatiebeleid rond de energiecrisis van 2022-2023, dat via een aparte regeling wordt gedicht.
 - Raakt [[energiearmoede]]: blokaansluitingen komen relatief vaak voor bij juist de groepen (studenten, huurders van kleine appartementen) die kwetsbaar zijn voor hoge energiekosten.
+- Raakt [[toegankelijkheid-regelingen]]: het aansluitingstype (niet het inkomen) bepaalde hier de toegang tot compensatie — een uitvoeringsdetail los van het beleidsontwerp.
 
 ## Frame/standpunt
 Uitleg-/service-frame vanuit een consumentenplatform: "eindelijk compensatie voor een groep die eerder buiten de boot viel", met een expliciete disclaimer dat niet iedereen met een gedeelde aansluiting in aanmerking komt.

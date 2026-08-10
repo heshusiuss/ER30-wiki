@@ -6,7 +6,7 @@ type: "analyse"
 auteur: ""
 datum: ""
 themas: ["Marktinrichting", "Leveringszekerheid", "Internationaal"]
-mechanismen: ["capaciteitsmarkt", "curtailment", "netcongestie", "dynamische-prijzen", "leveringszekerheid"]
+mechanismen: ["capaciteitsmarkt", "curtailment", "netcongestie", "dynamische-prijzen", "leveringszekerheid", "energiebelasting"]
 stakeholders: ["PBL", "TenneT", "TNO", "Ministerie Politiek"]
 scope: "NL"
 toegang: "open"
@@ -33,6 +33,7 @@ Nederland aarzelt meer dan Duitsland en het VK bij het vormgeven van de nieuwe e
 - [[curtailment]] — genoemd als risico van uitsluitend aanbodsubsidie zonder gerichte vraagsturing.
 - [[netcongestie]] — één van de vier knelpunten, samenhangend met achterblijvende netuitbreiding.
 - [[dynamische-prijzen]] — voor kleinverbruikers vooralsnog meestal niet aantrekkelijk, tenzij financieel gestimuleerd.
+- [[energiebelasting]] — hoge Nederlandse net- en energiebelastingkosten voor grootverbruikers drukken de industriële vraag naar duurzame stroom.
 
 ## Frame/standpunt
 Bepleit een actiever marktordeningsbeleid: net als [[0003-marktinrichting-hernieuwbare-energie-netbalans]] benadert dit artikel lagere transitiekosten primair via *betere marktregels en mechanismen* (capaciteitsmarkt, gerichte vraagsturing, contracts-for-difference) in plaats van uitsluitend via *meer investeren in hardware*. Nederland wordt expliciet ongunstig afgezet tegen de daadkrachtigere aanpak van Duitsland en het VK.

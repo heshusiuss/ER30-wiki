@@ -7,7 +7,7 @@ auteur: ""
 datum: ""
 themas: ["Bedrijfsvoering leveranciers/warmtebedrijven", "Regelgeving & toezicht"]
 mechanismen: ["warmtenet-tarieven"]
-stakeholders: ["ACM", "Energie-Nederland", "Eneco", "Vattenfall"]
+stakeholders: ["ACM", "Energie-Nederland", "Eneco", "Vattenfall", "Ministerie Politiek"]
 scope: "NL"
 toegang: "betaalmuur"
 url: "https://energeia.nl/energie-nederland-helft-warmtebedrijven-maakt-verlies"
@@ -44,3 +44,4 @@ Overwegend het frame van de branchevereniging (Energie-Nederland als bron van de
 - [[energie-nederland]] — brancheorganisatie die de rendementscijfers naar buiten brengt, de noodklok luidt en zich verzet tegen de nieuwe RAR-boekhoudregels.
 - [[acm]] — toezichthouder die de rendementsmonitor en de nieuwe RAR-regels publiceerde en vier warmtebedrijven met een te hoog rendement onderzoekt.
 - [[eneco]], [[vattenfall]] — twee van de drie dominante warmtebedrijven (samen met Ennatuurlijk, geen eigen entity-pagina) die bijna 85% van de warmte-aansluitingen voorzien.
+- [[ministerie-politiek]] — minister Sophie Hermans (KGG) beloofde dat kostengebaseerde tarieven onder de Wcw pas komen als de betaalbaarheid voor huishoudens geborgd is.

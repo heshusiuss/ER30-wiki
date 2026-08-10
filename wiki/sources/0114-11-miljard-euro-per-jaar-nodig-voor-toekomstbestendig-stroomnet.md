@@ -7,7 +7,7 @@ auteur: ""
 datum: ""
 themas: ["Netkosten & transporttarieven"]
 mechanismen: ["netkosten-transporttarieven", "netcongestie"]
-stakeholders: ["Ministerie Politiek", "Tennet"]
+stakeholders: ["Ministerie Politiek", "TenneT"]
 scope: "NL"
 toegang: "open"
 url: "https://www.bnr.nl/nieuws/nieuws-politiek/10568696/11-miljard-euro-per-jaar-nodig-voor-toekomstbestendig-stroomnet"

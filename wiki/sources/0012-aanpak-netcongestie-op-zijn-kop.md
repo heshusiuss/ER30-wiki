@@ -6,7 +6,7 @@ type: "opinie"
 auteur: "Paul Giesbertz"
 datum: ""
 themas: ["Vergoedingen & tarieven"]
-mechanismen: ["netcongestie", "netkosten-transporttarieven"]
+mechanismen: ["netcongestie", "netkosten-transporttarieven", "invoedingstarief"]
 stakeholders: ["ACM", "TenneT", "Netbeheer Nederland"]
 scope: "NL"
 toegang: "betaalmuur"
@@ -30,6 +30,7 @@ Trilemma-columnist Paul Giesbertz bekritiseert het voorstel van energiedeskundig
 ## Mechanismen
 - [[netcongestie]] — kern van het artikel: een alternatief allocatiemechanisme (veiling van transportcapaciteit) tegenover het bestaande congestiemanagement-vergoedingsstelsel, met een expliciet onderscheid tussen invoedings- en afnamecongestie.
 - [[netkosten-transporttarieven]] — het eerste (niet verder uitgewerkte) instrument uit het voorstel is aanpassing van netwerktarieven; het artikel noemt hierbij twee nog niet eerder vastgelegde details: een korting bij alternatieve transportrechten (zoals het tijdsduurgebonden transportrecht) en een ACM-consultatie over een invoedingstarief.
+- [[invoedingstarief]] — eerste vermelding: de ACM consulteert een invoedingstarief om invoeders te stimuleren het elektriciteitsnet efficiënt te benutten, genoemd als achtergronddetail bij het bredere veilingvoorstel.
 
 ## Frame/standpunt
 Kritisch-analytisch expertframe dat de bestaande regulatorische aanpak verdedigt (netbeheer als gereguleerd, doelmatig nutsbedrijf) tegenover een marktwerking/veiling-frame van de bekritiseerde voorstellers; expliciet gepositioneerd als persoonlijke opinie van de auteur (Trilemma), niet als redactioneel standpunt van Energeia.

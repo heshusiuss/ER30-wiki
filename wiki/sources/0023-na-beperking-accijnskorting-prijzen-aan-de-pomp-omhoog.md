@@ -4,7 +4,7 @@ titel: "Na beperking accijnskorting: prijzen aan de pomp met zo'n 5,5 procent om
 uitgever: "BNR"
 type: "nieuws"
 auteur: ""
-datum: "2025-12-31"
+datum: ""
 themas: ["Beprijzing (belasting/heffing)"]
 mechanismen: []
 stakeholders: ["Ministerie Politiek"]
