@@ -19,4 +19,4 @@ Discussie over vaste vs variabele kosten, rendement van warmtebedrijven en de po
 - [[0014-maastricht-gemeentelijk-warmtebedrijf-oprichten]] — nieuwe variant op de onrendabele-top-financiering: Maastricht richt zelf een gemeentelijk warmtebedrijf op en draagt de onrendabele top (€4,5–13,4 mln) van de aanleg voor de nieuwbouwwijk Trega-Zinkwit, omdat de wijk (990 woningen) onder de Wcw-drempel van publieke zeggenschap valt en een private of regionale publieke partij (nog) niet inzetbaar is. Eerste bron waarin een gemeente zelf (tijdelijk) eigenaar/exploitant van een warmtebedrijf wordt, in plaats van alleen regelgever of vergunningverlener.
 
 ## Zie ook
-- [[warmtepompen-verwarmingstransitie]] · [[warmtetransitie-sporenkeuze]] · [[energiearmoede]] · [[modeltoetsing]]
+- [[warmtepompen-verwarmingstransitie]] · [[warmtetransitie-sporenkeuze]] · [[energiearmoede]] · [[aardwarmte]] · [[modeltoetsing]]
