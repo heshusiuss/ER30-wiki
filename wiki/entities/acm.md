@@ -21,6 +21,7 @@
 
 - [[0012-aanpak-netcongestie-op-zijn-kop]] — consulteert een invoedingstarief om invoeders te stimuleren het elektriciteitsnet efficiënt te benutten; gaf netbeheerders eind vorig jaar de opdracht om vóór 6 februari met verbeterplannen voor slimmer netgebruik te komen (aanvulling op [[0060-netbeheerders-te-traag-met-flexcontracten-toezichthouder-eist-verbeterplan]]).
 - [[0013-brancheclubs-mordicus-tegen-invoedingstarief]] — eerste reacties op de [[invoedingstarief]]-consultatie (gestart november) zijn binnen: vijf duurzame-energie-brancheorganisaties unaniem tegen. De ACM heeft zelf een voorkeur voor een 50/50-verdeling van kosten tussen invoeders en afnemers; vraagt de markt ook naar voorkeur voor een kWh- vs. vermogenstarief, tijdsdifferentiatie en uitzonderingen voor wind op zee/batterijen/kleinverbruikers.
+- [[0017-akkoord-over-tariefregulering-nog-niet-definitief]] — bevestigt desgevraagd dat het dinsdag aangekondigde nettarieven-akkoord 2027-2031 een "akkoord op hoofdlijnen" is, dat de komende twee weken nog verder wordt uitgewerkt; alle partijen, ook Energie-Nederland, hebben er volgens een ACM-woordvoerder vertrouwen in dat er een goed resultaat komt.
 
 ## Zie ook
 - [[modeltoetsing]] · [[taxonomie]]
