@@ -17,6 +17,7 @@
 - [[0010-energie-nederland-helft-warmtebedrijven-verlies]] — minister Sophie Hermans (KGG) beloofde dat kostengebaseerde warmtetarieven onder de Wet collectieve warmte pas komen als de betaalbaarheid voor huishoudens geborgd is; die belofte kwam op initiatief van VVD-Kamerlid Silvio Erkens ook in de wetstekst terecht.
 - [[0008-den-haag-verplichte-aardgas-stop-32-wijken]] — de landelijke deadline voor gemeentelijke Warmteprogramma's (het Wgiw-instrument, zie hierboven) lijkt opgeschoven van eind 2026 naar eind 2027; Den Haag wil desondanks dit jaar al klaar zijn. Amsterdam's tempo (5 versus 64 aardgasloze buurten in tien jaar) hangt expliciet af van extra Rijksgeld.
 - [[0009-extreme-kou-zorgt-voor-gigantische-stijging-gasprijs]] — energieminister Sophie Hermans kondigt een wet aan voor een nationale gas-noodvoorraad, bedoeld voor crisissituaties.
+- [[0024-tno-energiearmoede-2040-stijgende-netkosten]] — minister Hermans (KGG) stuurt een TNO-doorrekening naar de Kamer (reactie op motie-Postma 2023) die laat zien dat energiearmoede tot 2040 vrijwel gelijk blijft door stijgende netkosten; onderschrijft dat dit een verdelingsvraagstuk wordt, laat "evenwichtige besluitvorming" aan haar opvolger, en kondigt in een tweede Kamerbrief het per 1-1-2026 startende [[nationaal-energiearmoede-observatorium]] aan (KGG, VRO, SZW, TNO, RVO).
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]
