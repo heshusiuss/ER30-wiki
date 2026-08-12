@@ -13,6 +13,7 @@
 
 - [[0012-aanpak-netcongestie-op-zijn-kop]] — voor gebruik van het TenneT-net geldt al een tijdsafhankelijk tarief, genoemd als voorbeeld van een bestaand tariefinstrument tegenover het bekritiseerde veilingvoorstel voor netcongestie.
 - [[0022-pot-veilinggeld-groeit-2026-half-miljard]] — beheert de interconnectoren (België, Duitsland, Noorwegen, Denemarken); ontvangt congestie-ontvangsten uit de veiling van grensoverschrijdende transportcapaciteit, betaalt redispatchkosten en een jaarlijkse NorNed-malus (negende jaar op rij) wegens beperkte kabelbeschikbaarheid, en doet jaarlijks een bestedingsvoorstel aan de ACM voor de congestie-ontvangsten.
+- [[0026-hermans-vreest-businesscase-invoedingstarief]] — loopt risico op extra, oplopende kosten omdat TenneT al ver vooruit investeert in het net op zee, terwijl een [[invoedingstarief]] getenderde wind-op-zee-projecten kan vertragen of doen stranden — extra kosten die volgens minister Hermans oplopen naarmate de realisatie van windparken wordt uitgesteld.
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]

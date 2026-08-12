@@ -11,6 +11,7 @@ Een verwant maar apart instrument is *contracts-for-difference* (vaste, geveilde
 
 ## Bronnen die dit noemen
 - [[0020-nederland-loopt-achter-vormgeven-nieuwe-energiemarkt]] — Nederland aarzelt met een capaciteitsmarkt-besluit, terwijl het VK er al sinds 2014 één heeft (technologieneutraal: centrales, vraagsturing en buitenlandse capaciteit mogen meedoen) en Duitsland inmiddels nieuw gasvermogen tendert (minimaal 5 GW van de in totaal geachte 20 GW dit jaar).
+- [[0026-hermans-vreest-businesscase-invoedingstarief]] — het huidige kabinet en het aanstaande kabinet-Jetten voorzien een capaciteitsmechanisme dat centrales betaalt om paraat te staan tijdens schaarste (bv. een *dunkelflaute*), niet om te produceren; minister Hermans verwacht dat dit een [[invoedingstarief]] "onwaarschijnlijk" tot een verslechtering van de leveringszekerheid laat leiden, al kan het tarief wel de kosten van het capaciteitsmechanisme zelf verhogen (via hogere vergoedingen om netondersteunende centrales open te houden).
 
 ## Zie ook
-- [[leveringszekerheid]] · [[balanceringsmarkt]] · [[curtailment]] · [[modeltoetsing]]
+- [[leveringszekerheid]] · [[balanceringsmarkt]] · [[curtailment]] · [[invoedingstarief]] · [[sde-plus-plus]] · [[modeltoetsing]]
