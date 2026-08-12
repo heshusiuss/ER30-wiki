@@ -14,6 +14,7 @@ Tarieven en schijven zijn beleidsmatig instelbaar; onderwerp van koopkracht- en 
 - [[0052-huishoudens-betalen-in-2026-minder-voor-gas-en-elektra-door-dalende-leveringskosten]] — CBS: energiebelasting op gas stijgt in 2026, maar wordt in de totale rekening overstemd door dalende variabele leveringskosten — laat zien dat de belastingcomponent alleen niet de hele rekening bepaalt.
 - [[0071-energiekosten-huishoudens-nemen-de-komende-jaren-af-in-ontwikkelde-economieen]] — IEA-advies: CO2-beprijzingsopbrengsten (bv. accijns) gebruiken om kwetsbare huishoudens te ondersteunen, in plaats van beprijzing als enige verduurzamingsinstrument in te zetten.
 - [[0048-nederlandse-industrie-roept-op-om-energieprijs-gelijk-te-trekken-met-buurlanden]] — industriebedrijven wijzen energiebelasting (samen met transportkosten) aan als hoofdoorzaak van een hogere Nederlandse elektriciteitsrekening dan in Duitsland, ondanks een gelijke groothandelsprijs; bevestigt het eerder gesignaleerde verschil met de Duitse belastingverlaging voor energie-intensieve bedrijven.
+- [[0019-dynamische-leveranciers-jaarbasis-salderen]] — bij dynamische contracten wordt in de gangbare praktijk alleen de energiebelasting (en btw) van opgewekte en verbruikte kilowatturen op jaarbasis tegen elkaar weggestreept, terwijl de kale energiecomponent per uur wordt verrekend; het gerechtshof keurde dit gedeeltelijke salderen af — zie [[salderen]].
 
 ## Zie ook
 - [[ets2-beprijzing]] · [[energiearmoede]] · [[co2-beprijzingstekort]] · [[modeltoetsing]]
