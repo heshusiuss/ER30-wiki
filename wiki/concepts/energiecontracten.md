@@ -17,6 +17,7 @@ Los van de onderliggende marktprijzen en netkosten kan het gekozen contract en l
 - [[0066-consumenten-vinden-vergelijken-energiecontracten-moeilijk]] — ACM-onderzoek: meerderheid consumenten vindt de markt onoverzichtelijk (te veel leveranciers, ondoorzichtige tijdelijke acties); 1 op de 4 huishoudens telefonisch benaderd, vaak als opdringerig ervaren.
 - [[0019-dynamische-leveranciers-jaarbasis-salderen]] — dynamische leverancier Holland Energie rekende een opzegboete, terwijl dynamische contracten volgens het artikel doorgaans direct boetevrij opzegbaar zijn; de hoge boete was mede aanleiding voor de klant om juridische stappen te zetten tegen de saldeermethode.
 - [[0041-helft-eigenaren-warmtepomp-geen-onderhoudscontract]] — kwantificeert de adoptie van het dynamische contract als contractvorm bij warmtepompeigenaren (26%, zie [[dynamische-prijzen]]) en koppelt de keuze voor dit contracttype expliciet aan bezit van sturingsvatbare apparatuur (batterij, laadpunt).
+- [[0061-terugleververgoeding-niet-negatief-toch-betalen]] — wie nu al een vast jaarcontract afsluit dat doorloopt tot na 1-1-2027 (bv. een contract dat over zes weken ingaat), moet daarbij nu al duidelijkheid krijgen over de [[terugleververgoeding]] na afschaffing van saldering; Vereniging Eigen Huis signaleert dat die duidelijkheid vaak ontbreekt.
 
 ## Zie ook
 - [[dynamische-prijzen]] · [[slimme-sturing-energiemanagement]] · [[modeltoetsing]]
