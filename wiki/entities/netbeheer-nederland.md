@@ -13,6 +13,7 @@
 - [[0012-aanpak-netcongestie-op-zijn-kop]] — werkt, naast het in [[0002-uur-van-de-dag-bepaalt-straks-de-prijs-van-gebruik-stroomnet]] genoemde grootverbruikersvoorstel, ook aan een ander nettarief voor kleinverbruikers om de piekbelasting op het net te verlagen.
 - [[0013-brancheclubs-mordicus-tegen-invoedingstarief]] — netbeheerders lieten eerder al weten vóórstander te zijn van een [[invoedingstarief]] voor elektriciteitsproducenten (netefficiëntie-argument) — een positie die in deze bron expliciet haaks staat op het unanieme verzet van de duurzame-energie-brancheorganisaties.
 - [[0017-akkoord-over-tariefregulering-nog-niet-definitief]] — noemt het door de ACM aangekondigde nettarieven-akkoord een "tussenstap", nog geen definitieve overeenkomst.
+- [[0041-helft-eigenaren-warmtepomp-geen-onderhoudscontract]] — mede-opdrachtgever (met [[rvo]] en [[techniek-nederland]]) van het Installatiemonitor-project, dat naast netimpact ook onderhoud, slimme sturing en dynamische contracten bij warmtepompeigenaren onderzoekt; een andere rol dan de eerder verwerkte nettarieven-onderhandelingen.
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]

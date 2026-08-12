@@ -16,6 +16,7 @@ Los van de onderliggende marktprijzen en netkosten kan het gekozen contract en l
 - [[0016-energievoorwaarden-nog-steeds-onvoldoende-helder-zegt-consumentenbond]] — een gerechtshof verklaarde het prijswijzigingsbeding bij variabele contracten oneerlijk; de door Energie-Nederland herziene voorwaarden lossen volgens de Consumentenbond het onderliggende voorspelbaarheidsprobleem niet op.
 - [[0066-consumenten-vinden-vergelijken-energiecontracten-moeilijk]] — ACM-onderzoek: meerderheid consumenten vindt de markt onoverzichtelijk (te veel leveranciers, ondoorzichtige tijdelijke acties); 1 op de 4 huishoudens telefonisch benaderd, vaak als opdringerig ervaren.
 - [[0019-dynamische-leveranciers-jaarbasis-salderen]] — dynamische leverancier Holland Energie rekende een opzegboete, terwijl dynamische contracten volgens het artikel doorgaans direct boetevrij opzegbaar zijn; de hoge boete was mede aanleiding voor de klant om juridische stappen te zetten tegen de saldeermethode.
+- [[0041-helft-eigenaren-warmtepomp-geen-onderhoudscontract]] — kwantificeert de adoptie van het dynamische contract als contractvorm bij warmtepompeigenaren (26%, zie [[dynamische-prijzen]]) en koppelt de keuze voor dit contracttype expliciet aan bezit van sturingsvatbare apparatuur (batterij, laadpunt).
 
 ## Zie ook
-- [[dynamische-prijzen]] · [[modeltoetsing]]
+- [[dynamische-prijzen]] · [[slimme-sturing-energiemanagement]] · [[modeltoetsing]]
