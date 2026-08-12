@@ -23,6 +23,7 @@
 - [[0013-brancheclubs-mordicus-tegen-invoedingstarief]] — eerste reacties op de [[invoedingstarief]]-consultatie (gestart november) zijn binnen: vijf duurzame-energie-brancheorganisaties unaniem tegen. De ACM heeft zelf een voorkeur voor een 50/50-verdeling van kosten tussen invoeders en afnemers; vraagt de markt ook naar voorkeur voor een kWh- vs. vermogenstarief, tijdsdifferentiatie en uitzonderingen voor wind op zee/batterijen/kleinverbruikers.
 - [[0017-akkoord-over-tariefregulering-nog-niet-definitief]] — bevestigt desgevraagd dat het dinsdag aangekondigde nettarieven-akkoord 2027-2031 een "akkoord op hoofdlijnen" is, dat de komende twee weken nog verder wordt uitgewerkt; alle partijen, ook Energie-Nederland, hebben er volgens een ACM-woordvoerder vertrouwen in dat er een goed resultaat komt.
 - [[0019-dynamische-leveranciers-jaarbasis-salderen]] — vindt dat salderen wat de toezichthouder betreft per jaar moet, maar erkent dat dit niet letterlijk zo in de wet staat; kondigt na de uitspraak van het Gerechtshof Arnhem-Leeuwarden geen actieve handhaving aan bij dynamische leveranciers ("er zijn andere problemen waar we voorrang aan geven"), mede omdat consumenten bewust voor een dynamisch contract kiezen.
+- [[0022-pot-veilinggeld-groeit-2026-half-miljard]] — keurt TenneT's jaarlijkse bestedingsvoorstel voor congestie-ontvangsten uit interconnector-veilingen goed; voor 2026 geen tariefdemping, het geld wordt gebufferd vanwege verwachte onzekerheid in ontvangsten en redispatchkosten na 2026.
 
 ## Zie ook
 - [[modeltoetsing]] · [[taxonomie]]

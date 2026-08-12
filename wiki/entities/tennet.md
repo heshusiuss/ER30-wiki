@@ -12,6 +12,7 @@
 - [[0114-11-miljard-euro-per-jaar-nodig-voor-toekomstbestendig-stroomnet]] — IBO-rapport oppert subsidie aan TenneT als landelijk hoogspanningsbeheerder, om kosten verderop in de keten (bij regionale netbeheerders) te dempen.
 
 - [[0012-aanpak-netcongestie-op-zijn-kop]] — voor gebruik van het TenneT-net geldt al een tijdsafhankelijk tarief, genoemd als voorbeeld van een bestaand tariefinstrument tegenover het bekritiseerde veilingvoorstel voor netcongestie.
+- [[0022-pot-veilinggeld-groeit-2026-half-miljard]] — beheert de interconnectoren (België, Duitsland, Noorwegen, Denemarken); ontvangt congestie-ontvangsten uit de veiling van grensoverschrijdende transportcapaciteit, betaalt redispatchkosten en een jaarlijkse NorNed-malus (negende jaar op rij) wegens beperkte kabelbeschikbaarheid, en doet jaarlijks een bestedingsvoorstel aan de ACM voor de congestie-ontvangsten.
 
 ## Zie ook
 - [[modeltoetsing]] · [[index]]
