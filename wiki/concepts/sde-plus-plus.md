@@ -9,6 +9,7 @@ SDE++-subsidie beweegt mee met veranderende elektriciteitsprijzen, maar niet met
 
 ## Bronnen die dit noemen
 - [[0026-hermans-vreest-businesscase-invoedingstarief]] — minister Hermans: een invoedingstarief zou de kosten voor SDE++-projecten verhogen zonder dat de subsidie meebeweegt; werkt door via lagere subsidie-efficiëntie (minder opwek per euro budget) voor toekomstige projecten, en raakt bestaande projecten direct in de businesscase.
+- [[0043-afschakeling-wind-en-zon-naar-recordhoogte-in-2025]] — recordhoeveelheid [[curtailment]] (709 GWh in 2025, +21%) raakt de uit te keren subsidie en daarmee de businesscase van nieuwe én bestaande zonne-/windparken, zonder dat de bron dit kwantificeert; een tweede, nog niet eerder gekwantificeerde route (naast het invoedingstarief-dossier) waarlangs curtailment het SDE++-rendement raakt.
 
 ## Zie ook
-- [[invoedingstarief]] · [[capaciteitsmarkt]] · [[modeltoetsing]]
+- [[invoedingstarief]] · [[capaciteitsmarkt]] · [[curtailment]] · [[modeltoetsing]]
