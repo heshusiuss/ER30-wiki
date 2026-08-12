@@ -1,0 +1,12 @@
+# Europese Commissie
+
+**Type:** EU-instelling
+**Rol rond de energierekening:** dagelijks bestuur van de EU; doet wetgevingsvoorstellen voor EU-brede instrumenten zoals het ETS(2)-emissiehandelssysteem die via CO2-beprijzing doorwerken in de Nederlandse energie- en brandstofrekening.
+
+> Stub — uitbreiden tijdens ingest; alleen claims uit verwerkte bronnen, met [[wikilink]].
+
+## Wat bronnen over deze partij zeggen
+- [[0044-kabinet-kritisch-stuwmeer-co2-rechten-ets2]] — kondigde in oktober stappen aan om de kosten van [[ets2-beprijzing]] te beteugelen, na zorgen van lidstaten over te hoge kosten voor burgers/bedrijven bij de gebouwde omgeving en transport. Stelt voor de startvoorraad van 600 miljoen marktstabiliteitsreserve-rechten niet in 2031 te annuleren maar voor de hele ETS2-looptijd te bewaren (tot 600 Mton extra EU-brede uitstoot mogelijk) — waar het Nederlandse kabinet kritisch op reageert. Overige voorstellen (geleidelijker MSR-in-/uitstroom, tijdelijk prijsplafond, vervroegde veiling, EIB-voorfinancieringsfaciliteit) krijgen wel steun of een afwachtende houding van het kabinet.
+
+## Zie ook
+- [[ets2-beprijzing]] · [[ministerie-politiek]] · [[modeltoetsing]]
