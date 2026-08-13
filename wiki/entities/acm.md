@@ -29,5 +29,7 @@
 - [[0022-pot-veilinggeld-groeit-2026-half-miljard]] — keurt TenneT's jaarlijkse bestedingsvoorstel voor congestie-ontvangsten uit interconnector-veilingen goed; voor 2026 geen tariefdemping, het geld wordt gebufferd vanwege verwachte onzekerheid in ontvangsten en redispatchkosten na 2026.
 - [[0026-hermans-vreest-businesscase-invoedingstarief]] — moet nog een formeel besluit nemen over vormgeving, hoogte, invoerdatum en overgangsperiode van het [[invoedingstarief]]; het kabinet benadrukte in gesprek met de ACM zelf al de mogelijke nadelige gevolgen en vroeg daar zoveel mogelijk rekening mee te houden. Liet in 2024 zelf het CE Delft-onderzoek uitvoeren dat het (door minister Hermans niet meegewogen) exportvoordeel voor buitenlandse afnemers aantoont.
 
+- [[0063-congestie-laagspanning-slimmemeterallocatie]] — Trilemma-opinie bekritiseert dat de ACM tijdsafhankelijke nettarieven voor kleinverbruikers als cruciaal behandelt, maar locatieafhankelijke nettarieven (waarover ze zelf een verkenning publiceerde) zo lang mogelijk lijkt uit te stellen — terwijl juist dat laatste type niet via marktwerking op te lossen is. Signaleert daarnaast een spanning tussen de ACM's streven naar vergelijkbare, transparante leveringscontracten en haar eigen medewerking aan een nettarievenstelsel dat het inzicht in energiekosten voor kleinverbruikers juist lastiger maakt.
+
 ## Zie ook
 - [[modeltoetsing]] · [[taxonomie]]
