@@ -31,6 +31,7 @@
 - [[0026-hermans-vreest-businesscase-invoedingstarief]] — moet nog een formeel besluit nemen over vormgeving, hoogte, invoerdatum en overgangsperiode van het [[invoedingstarief]]; het kabinet benadrukte in gesprek met de ACM zelf al de mogelijke nadelige gevolgen en vroeg daar zoveel mogelijk rekening mee te houden. Liet in 2024 zelf het CE Delft-onderzoek uitvoeren dat het (door minister Hermans niet meegewogen) exportvoordeel voor buitenlandse afnemers aantoont.
 
 - [[0063-congestie-laagspanning-slimmemeterallocatie]] — Trilemma-opinie bekritiseert dat de ACM tijdsafhankelijke nettarieven voor kleinverbruikers als cruciaal behandelt, maar locatieafhankelijke nettarieven (waarover ze zelf een verkenning publiceerde) zo lang mogelijk lijkt uit te stellen — terwijl juist dat laatste type niet via marktwerking op te lossen is. Signaleert daarnaast een spanning tussen de ACM's streven naar vergelijkbare, transparante leveringscontracten en haar eigen medewerking aan een nettarievenstelsel dat het inzicht in energiekosten voor kleinverbruikers juist lastiger maakt.
+- [[0082-netwerkkosten-regionale-net-stijgen-2026]] — publiceert de tariefvoorstellen van de netbeheerders voor 2026 (regionaal gemiddeld +3,4%, TenneT -10%/-12%) en beoordeelt deze vóór het definitieve besluit eind november; verklaart expliciet waarom gasnettarieven de komende jaren verder zullen stijgen: dalend aardgasgebruik verdeelt vaste netkosten over minder gebruikers.
 
 ## Zie ook
 - [[modeltoetsing]] · [[taxonomie]]
