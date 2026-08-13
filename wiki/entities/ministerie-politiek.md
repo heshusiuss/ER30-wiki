@@ -28,5 +28,7 @@
 - [[0076-commissie-belooft-stappen-prijzen-ets2-beteugelen]] — Nederland kiest ervoor de eigen [[ets2-beprijzing]]-veilingopbrengst grotendeels naar de algemene middelen te laten vloeien in plaats van geoormerkt te besteden, met als argument dat het kabinet toch al meer geld in klimaat- en verduurzamingsmaatregelen steekt dan ETS2 opbrengt en daarmee al aan de bestedingsverplichting voldoet.
 - [[0080-lagere-energiebelasting-huishoudens-2029]] — demissionair staatssecretaris Eugène Heijnen (Financiën, BBB) meldt de Tweede Kamer dat een breed gesteunde motie (99 stemmen, motie-Van Hijum/NSC) om de bestaande energiebelastingkorting te versmallen tot alleen huishoudens ("woonfunctie" i.p.v. "verblijfsfunctie") pas per 1-1-2029 uitvoerbaar is, vanwege een benodigde BAG-datakoppeling bij energieleveranciers; hij noemt een sneller amendement van Kamerlid Bram Kouwenhoven (NSC, per 1-1-2026) "niet haalbaar" en waarschuwt voor een "onwerkbare situatie".
 
+- [[0083-betaalbaarheid-gaat-over-kosten-maar-ook-over-winst]] — het ministerie van Klimaat en Groene Groei werkt de nieuwe, kostengebaseerde tariefstructuur voor warmte onder de Wcw verder uit en kijkt naar waarborgen zoals een tarieflimiet; een definitief tijdspad voor de invoering ontbreekt nog. De Wcw is aangenomen door de Tweede Kamer en ligt ter behandeling bij de Eerste Kamer.
+
 ## Zie ook
 - [[europese-commissie]] · [[modeltoetsing]] · [[index]]
