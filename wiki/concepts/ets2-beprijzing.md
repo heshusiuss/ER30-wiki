@@ -14,10 +14,17 @@ De MSR is het instrument waarmee de Europese Commissie de ETS2-prijs probeert te
 - Overige Commissievoorstellen die het kabinet wél steunt: geleidelijker in-/uitstroom via de MSR in plaats van harde 100 miljoen-stappen, een tijdelijk prijsplafond (CO2-prijs onder €45 in de eerste ETS2-jaren) en een jaar eerder beginnen met veilen (1-1-2027) voor prijsvorming.
 - Een apart, nog onuitgewerkt voorstel is een EIB-voorfinancieringsfaciliteit ("frontloading"): leningen aan lidstaten, terug te betalen uit toekomstige ETS2-veilingopbrengsten, bestemd voor verduurzaming van mobiliteit en warmte bij lage/middeninkomens ([[0044-kabinet-kritisch-stuwmeer-co2-rechten-ets2]]).
 
+## Politieke context & kostenschattingen (NL)
+- Klimaatcommissaris Wopke Hoekstra zoekt, voorafgaand aan een ministersoverleg in Luxemburg, toenadering tot bezorgde lidstaten: (1) veilingopbrengsten naar voren halen zodat lidstaten sneller met verduurzamingssubsidies aan de slag kunnen (mogelijk dezelfde geldstroom als de EIB-voorfinancieringsfaciliteit hierboven, niet bevestigd); (2) prijsbuffers waarmee de Commissie als "veilingmeester" bij te sterk oplopende prijzen extra uitstootrechten op de markt brengt. De EU-brede veilingopbrengst wordt geraamd op ruim €86 miljard ([[0075-wopke-hoekstra-toenadering-energierekening]]).
+- Kostenschattingen voor een Nederlands gezin met aardgas en een auto: Rabobank raamt €187/jaar extra bij een benzineauto, boven de €200 bij diesel; ABN Amro komt op €319-489 inclusief indirecte kosten (doorberekening door bv. bakker/kroeg) ([[0075-wopke-hoekstra-toenadering-energierekening]]).
+- Nederlandse cumulatie: de tijdelijke accijnsverlaging op benzine/diesel/lpg loopt eind 2026 af; valt dat samen met de start van ETS2 in 2027, dan stijgt de benzineprijs in één keer met 36 cent/liter. Tweede Kamerlid Bontenbal (CDA) stelde voor de ETS2-impact te compenseren via een lagere energiebelasting; klimaatminister Hermans (VVD) wees dat af omdat het de beoogde emissiereductie teniet zou doen ([[0075-wopke-hoekstra-toenadering-energierekening]]).
+- Brede politieke zorg voor "nieuwe gele hesjes", met name in lidstaten met verkiezingen in 2027 zoals Polen en Frankrijk ([[0075-wopke-hoekstra-toenadering-energierekening]]).
+
 ## Bronnen die dit noemen
 - [[0046-analyse-beprijzing-broeikasgasemissies-nederland]] — gaat over het bredere EU ETS en andere beprijzingsinstrumenten samen, niet specifiek over ETS2; wel nauw verwant aan het [[co2-beprijzingstekort]] dat daar wordt vastgesteld.
 - [[0029-acm-energierekening-stijgt-beter-contract]] — ETS2 en de (nog niet ingegane) bijmengverplichting voor groen gas kunnen huishoudens samen ca. €14/maand extra kosten voor gaslevering opleveren.
 - [[0044-kabinet-kritisch-stuwmeer-co2-rechten-ets2]] — beschrijft het concrete werkingsmechanisme van de marktstabiliteitsreserve (in-/uitstroomdrempels, annuleringsregel, prijsplafond) en de kritische kabinetspositie over het Commissievoorstel om de startvoorraad niet te annuleren.
+- [[0075-wopke-hoekstra-toenadering-energierekening]] — politieke aanloop (lidstaatdruk, "gele hesjes"-angst) naar de Commissievoorstellen, Nederlandse kostenschattingen (Rabobank/ABN Amro) en de Nederlandse cumulatie met het aflopen van de accijnskorting.
 
 ## Zie ook
 - [[energiebelasting]] · [[co2-beprijzingstekort]] · [[europese-commissie]] · [[ministerie-politiek]] · [[modeltoetsing]]
