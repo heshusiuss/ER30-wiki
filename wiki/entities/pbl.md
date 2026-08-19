@@ -11,5 +11,7 @@
 - [[0058-richt-beleid-efficient-gebruik-schaarse-energie]] — belangrijkste bron voor cijfers over de benodigde opschaling van duurzame energie (o.a. 9× meer elektriciteitsproductie richting 2050) en de haalbaarheid van wind-op-zee-ambities.
 - [[0005-rekenkamer-warmtepomp-zit-warmtenet-in-de-weg]] — becijferde dat een collectief warmtenet in ongeveer een derde van de 3.340 Nederlandse wijken de optie met de laagste nationale kosten is; deze becijfering vormt de basis voor het Rekenkamer-onderzoek naar overlap tussen warmtepomp- en warmtenetbeleid.
 
+- [[0107-negatieve-stroomprijzen-batterijen-sde]] — consulteert over wijzigingen aan de SDE++ 2026 om het effect van toenemende negatieve-prijsuren op de subsidiabele productie te dempen (correctiefactor, minder vollasturen-equivalent, ruimere banking); Trilemma-auteurs bekritiseren dat de consultatie de optie "vertraagde invoeding via batterijopslag" niet noemt.
+
 ## Zie ook
-- [[modeltoetsing]] · [[index]]
+- [[sde-plus-plus]] · [[modeltoetsing]] · [[index]]

@@ -10,5 +10,7 @@ Als het aanbestedingsrecht een gekozen constructie later onderuit haalt (rechtsz
 ## Bronnen die dit noemen
 - [[0053-rechtszaak-utrecht-aandeelhouder-hvc]] — AVR, Attero en EEW dreigen met een rechtszaak als de Utrechtse gemeenteraad instemt met aandeelhouderschap van HVC: dat aandeelhouderschap is bij HVC gekoppeld aan verplichte onderhandse gunning van de afvalverwerking, wat volgens een ingeschakeld advocatenkantoor mogelijk in strijd is met een recente uitspraak van het Hof van Justitie van de EU over overheidsopdrachten; HVC en de gemeente stellen zelf wél aan de voorwaarden te voldoen, op basis van diezelfde uitspraak.
 
+- [[0094-hermans-niet-enthousiast-amendementen-wcw]] — een tweede, wetgevingstechnisch mechanisme naast het aanbestedingsrechtelijke HVC-risico: Kamerleden Erkens (VVD) en Bontenbal (CDA) willen de overgangsperiode voor private warmtebedrijven (ingroeiperiode 7→10 jaar, uitbaatperiode 30→40 jaar) verlengen; minister Hermans ontraadt beide amendementen als overbodig respectievelijk risicovol. Een pensioenfonds telt volgens de landsadvocaat (EU-recht) niet als publieke partij, wat een eerdere suggestie van Erkens blokkeert.
+
 ## Zie ook
 - [[warmtenet-tarieven]] · [[hvc]] · [[gemeenten]] · [[modeltoetsing]]

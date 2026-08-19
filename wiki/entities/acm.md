@@ -35,5 +35,8 @@
 
 - [[0083-betaalbaarheid-gaat-over-kosten-maar-ook-over-winst]] — waarschuwt dat onzekerheid over toekomstige warmtekosten zorgt voor stagnatie bij de uitrol van warmtenetten: woningcorporaties kunnen huurders daardoor geen langetermijngaranties geven, wat huurders kopschuw maakt voor aansluiting; benadrukt dat kostengebaseerde tarieven onder de Wcw weliswaar garanderen dat huishoudens niet meer betalen dan de werkelijke kosten van een warmtebedrijf, maar niet dat die kosten ook betaalbaar zijn.
 
+- [[0095-acm-drie-peildata-warmtetarieven]] — voert een aanpassing van het Warmtebesluit uit: het maximumtarief voor warmte wordt voortaan gebaseerd op de gemiddelde gasprijs op drie peilmomenten (september/oktober/november) in plaats van één, om schommelingen in de gasprijs minder te laten doorwerken; publiceert eind november de definitieve maximumtarieven 2026.
+- [[0099-betaalbaarheid-warmte-dichttimmeren-lukt-nog-niet]] — onderzoekt momenteel wat individuele warmtenetten daadwerkelijk kosten, een voorwaarde om de door minister Hermans beloofde "relatieve betaalbaarheid" te kunnen borgen vóór de overstap naar kostengebaseerde tarieven.
+
 ## Zie ook
 - [[modeltoetsing]] · [[taxonomie]]

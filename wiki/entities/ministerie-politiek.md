@@ -30,5 +30,9 @@
 
 - [[0083-betaalbaarheid-gaat-over-kosten-maar-ook-over-winst]] — het ministerie van Klimaat en Groene Groei werkt de nieuwe, kostengebaseerde tariefstructuur voor warmte onder de Wcw verder uit en kijkt naar waarborgen zoals een tarieflimiet; een definitief tijdspad voor de invoering ontbreekt nog. De Wcw is aangenomen door de Tweede Kamer en ligt ter behandeling bij de Eerste Kamer.
 
+- [[0094-hermans-niet-enthousiast-amendementen-wcw]] — minister Hermans ontraadt twee Wcw-amendementen (Erkens/Bontenbal) die de overgangsperiode voor private warmtebedrijven zouden verlengen (ingroeiperiode 7→10 jaar, uitbaatperiode 30→40 jaar) en een derde amendement (Flach) dat "eerst komt, eerst maalt" bij kavelverdeling wil vervangen door een selectieprocedure; de landsadvocaat oordeelt dat een pensioenfonds volgens EU-recht geen publieke partij is.
+- [[0099-betaalbaarheid-warmte-dichttimmeren-lukt-nog-niet]] — minister Hermans belooft dat kostengebaseerde warmtetarieven (fase twee) pas komen als de "relatieve betaalbaarheid" geborgd is (verwacht twee tot vier jaar na invoering van de Wcw); werkt aan een "relatieve prijsgarantie", vastrechtdifferentiatie en een oplossing voor het Acantus-huurdersvraagstuk, maar veel bouwstenen zijn nog niet uitgewerkt.
+- [[0112-altijd-en-overal-stroom-minder-vanzelfsprekend]] — een ambtelijke werkgroep van meerdere ministeries adviseert efficiënter netgebruik (met een groter storingsrisico als bijwerking) en prijsprikkels om piekbelasting te dempen, als reactie op sterk oplopende netkosten en toenemende aansluitwachtlijsten.
+
 ## Zie ook
 - [[europese-commissie]] · [[modeltoetsing]] · [[index]]

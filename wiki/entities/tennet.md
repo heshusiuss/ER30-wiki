@@ -17,5 +17,7 @@
 - [[0026-hermans-vreest-businesscase-invoedingstarief]] — loopt risico op extra, oplopende kosten omdat TenneT al ver vooruit investeert in het net op zee, terwijl een [[invoedingstarief]] getenderde wind-op-zee-projecten kan vertragen of doen stranden — extra kosten die volgens minister Hermans oplopen naarmate de realisatie van windparken wordt uitgesteld.
 - [[0082-netwerkkosten-regionale-net-stijgen-2026]] — tarieven dalen in 2026 tijdelijk (-10% hoogspanningsnet, -12% extrahoogspanningsnet), vooral door een 27%-daling van de toegestane inkomsten voor het net op zee fase I (aansluitingen inmiddels allemaal in gebruik) en een groter aantal gebruikers op het hoogspanningsnet; wil daarnaast bepaalde 2025-kosten (balanshandhaving, energie-inkoop) een jaar naar voren halen naar 2026 om de verwachte stijging vanaf 2027 iets te dempen.
 
+- [[0112-altijd-en-overal-stroom-minder-vanzelfsprekend]] — investeringsraming voor het hoogspanningsnet loopt in enkele jaren tijd sterk op: €56 mrd (2021) → €160 mrd (vorig jaar) → €200 mrd (nu) voor de komende tien jaar; ceo Manon van Beek sluit verdere stijging niet uit en pleit expliciet tegen vertragen van de elektrificatie ("volle kracht vooruit"), onder verwijzing naar een BCG-studie die de maatschappelijke kosten van een vol net op €10-40 mrd/jaar raamt.
+
 ## Zie ook
-- [[modeltoetsing]] · [[index]]
+- [[netkosten-transporttarieven]] · [[leveringszekerheid]] · [[modeltoetsing]] · [[index]]

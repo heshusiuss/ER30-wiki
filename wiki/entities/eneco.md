@@ -11,5 +11,9 @@
 - [[0100-enexis-klanten-krijgen-geld-om-minder-stroom-te-leveren-op-zonnige-dagen]] — deed eerder, samen met netbeheerder Stedin, een curtailment-proef in Zeeland (24 huishoudens, tot 57% lagere netbelasting).
 - [[0010-energie-nederland-helft-warmtebedrijven-verlies]] — een van de drie warmtebedrijven (met Vattenfall en Ennatuurlijk) die samen bijna 85% van de warmte-aansluitingen in Nederland voorzien.
 
+- [[0006-pilot-vrijwillig-uitschakelen-zonnepanelen]] — voert samen met netbeheerder Stedin een curtailment-pilot uit op de Zeeuwse eilanden: 24 klanten schakelden op verzoek tegen vergoeding hun zonnepanelen uit, wat 57% minder netbelasting gaf; vervolgpilot met circa duizend deelnemers gepland.
+- [[0086-vaste-kosten-stroom-gasloze-huishoudens]] — ziet de elektriciteitsmarkt door duurzame opwek beweeglijker en minder voorspelbaar worden, wat meer werk (en dus hogere vaste leveringskosten) oplevert.
+- [[0092-massaclaim-tussentijdse-verhoging-variabele-tarieven]] — gedaagde partij in dezelfde massaclaim als Vattenfall, ziet vooralsnog geen aanleiding inhoudelijk te reageren en stelt zich aan alle regels/wetten te houden.
+
 ## Zie ook
 - [[modeltoetsing]] · [[index]]
