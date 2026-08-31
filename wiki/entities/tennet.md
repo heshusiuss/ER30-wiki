@@ -1,4 +1,4 @@
-# Tennet
+# TenneT
 
 **Type:** netbeheerder
 **Rol rond de energierekening:** landelijke beheerder hoogspanningsnet en net op zee.

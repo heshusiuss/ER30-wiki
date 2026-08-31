@@ -7,7 +7,7 @@ auteur: ""
 datum: ""
 themas: ["Duiding / achtergrond", "Rechtvaardigheid & energiearmoede"]
 mechanismen: ["energiearmoede", "netkosten-transporttarieven"]
-stakeholders: ["TNO", "ministerie-politiek", "noodfonds-energie", "nationaal-energiearmoede-observatorium"]
+stakeholders: ["TNO", "Ministerie Politiek", "Noodfonds Energie", "Nationaal Energiearmoede Observatorium"]
 scope: "NL"
 toegang: "betaalmuur"
 url: "https://energeia.nl/tno-energiearmoede-tot-2040-gelijk-door-stijgende-netkosten/"

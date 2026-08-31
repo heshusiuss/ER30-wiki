@@ -3,7 +3,7 @@ id: 21
 titel: "Effecten elektriciteitsprijzen"
 uitgever: "ESB"
 type: "analyse"
-auteur: "Patzelt"
+auteur: ""
 datum: ""
 themas: ["Energieprijzen", "Duiding / achtergrond"]
 mechanismen: ["macro-effecten-elektriciteitsprijzen"]

@@ -114,5 +114,5 @@ _(mechanismen die bronnen noemen maar die in het getoetste model geen plek lijke
 _(modelonderdelen die in géén verwerkte bron voorkomen — vul aan tijdens lint)_
 
 ## Openstaande vragen
-- **Geen model aanwezig.** `raw/modellen/` is nog leeg — het model van Matthijs (of een ander model) moet nog aangeleverd worden voor de toetsingsfunctie (kolom 1) daadwerkelijk kan werken. Tot die tijd loggen we hier alleen welke mechanismen uit bronnen komen.
+- **Nog geen verwerkt model.** `raw/modellen/` bevat inmiddels één bestand (PBL-rekensysteembeschrijving energieprijzen, backlogitem 69), maar dat is nog niet als bron ingest — het model van Matthijs (of een ander model) moet nog aangeleverd/ingest worden voor de toetsingsfunctie (kolom 1) daadwerkelijk kan werken. Tot die tijd loggen we hier alleen welke mechanismen uit bronnen komen.
 - _(tegenstrijdigheden tussen bronnen, kandidaten voor gerichte search, vervolgvragen)_

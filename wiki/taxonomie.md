@@ -6,7 +6,7 @@ Gebruik **uitsluitend** deze labels in de `themas:`-frontmatter van bronpagina's
 ## Belasting, subsidie & beleid
 
 - **Beprijzing (belasting/heffing)**  
-  _omvat oorspronkelijk:_ beprijzen, beprijzing, prijzen, beprijzen
+  _omvat oorspronkelijk:_ beprijzen, beprijzing, prijzen
 - **Compensatie**  
   _omvat oorspronkelijk:_ compenstatie
 - **Energiebelasting**  

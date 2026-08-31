@@ -7,7 +7,7 @@ auteur: ""
 datum: ""
 themas: ["Vergoedingen & tarieven", "Regelgeving & toezicht", "Modellen & methodiek"]
 mechanismen: ["warmtenet-tarieven"]
-stakeholders: ["ACM", "ministerie-politiek"]
+stakeholders: ["ACM", "Ministerie Politiek"]
 scope: "NL"
 toegang: "betaalmuur"
 url: "https://energeia.nl/vast-omhoog-variabel-omlaag-bij-maximumtarieven-warmte/"
