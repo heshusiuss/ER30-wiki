@@ -31,7 +31,7 @@ Bij de stemming over het herziene belastingplan zet de Tweede Kamer de al aangek
 Politiek-verslaggevend/procesframe (Kamerstemming): neutrale weergave van een breder belastingpakket waarin brandstof-, vermogens- en vliegbelasting tegen elkaar worden afgewogen; geen partij-standpunt van de auteur.
 
 ## Toetsing & blinde vlekken
-- Net als [[0023-na-beperking-accijnskorting-prijzen-aan-de-pomp-omhoog]] gaat dit primair over brandstofaccijns en vermogensbelasting — mobiliteit en spaargeld, niet de gas/elektriciteitsrekening. Bewust geen koppeling aan [[energiebelasting]] (dat concept betreft specifiek gas/elektriciteit in deze wiki). Wel een randgeval: het laat zien hoe brandstof-, vermogens- en klimaatgerelateerde belastingmaatregelen (privéjet-toeslag) in hetzelfde wetsvoorstel tegen elkaar worden afgewogen — een bredere fiscale context waarin de energierekening-discussie plaatsvindt.
+- Net als [[0023-na-beperking-accijnskorting-prijzen-aan-de-pomp-omhoog]] gaat dit primair over brandstofaccijns en vermogensbelasting — mobiliteit en spaargeld, niet de gas/elektriciteitsrekening. Bewust geen koppeling aan energiebelasting (dat concept betreft specifiek gas/elektriciteit in deze wiki). Wel een randgeval: het laat zien hoe brandstof-, vermogens- en klimaatgerelateerde belastingmaatregelen (privéjet-toeslag) in hetzelfde wetsvoorstel tegen elkaar worden afgewogen — een bredere fiscale context waarin de energierekening-discussie plaatsvindt.
 - `raw/modellen/` is nog leeg.
 
 ## Betrokken stakeholders

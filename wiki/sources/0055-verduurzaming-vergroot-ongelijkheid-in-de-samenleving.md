@@ -7,7 +7,7 @@ auteur: ""
 datum: ""
 themas: ["Rechtvaardigheid & energiearmoede", "Begrijpelijkheid & toegankelijkheid"]
 mechanismen: ["rechtvaardigheid-verduurzamingsbeleid", "energiearmoede", "toegankelijkheid-regelingen"]
-stakeholders: ["Rli", "Ministerie-politiek", "TNO"]
+stakeholders: ["Rli", "Ministerie Politiek", "TNO"]
 scope: "NL"
 toegang: "betaalmuur"
 url: "https://energeia.nl/verduurzaming-vergroot-ongelijkheid-in-de-samenleving"

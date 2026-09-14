@@ -16,7 +16,7 @@ ingest-datum: "2026-08-07"
 ---
 
 ## Kernstelling
-Uit de jaarlijkse ACM-rendementsmonitor blijkt dat het gemiddelde financiële rendement van warmteleveranciers op levering aan kleinverbruikers in 2024 voor het eerst in tien jaar onder nul is gezakt, met een grote spreiding tussen individuele bedrijven (circa -56% tot +15%) en vier leveranciers die het normrendement overschreden.
+Uit de jaarlijkse ACM-rendementsmonitor blijkt dat het gemiddelde financiële rendement van warmteleveranciers in 2024 voor het eerst in tien jaar onder nul is gezakt, terwijl het rendement specifiek op kleinverbruikers gemiddeld positief bleef (3,7%, tegenover -8,6% op grootverbruikers); binnen kleinverbruikers was er een grote spreiding tussen individuele bedrijven (circa -56% tot +15%) en overschreden vier leveranciers het normrendement.
 
 ## Belangrijkste punten/cijfers
 - De ACM stelt ieder jaar maximumtarieven én een normrendement vast om te voorkomen dat warmtebedrijven (monopolisten op hun net) via de maximumtarieven onredelijke winst maken bij huishoudens/kleinverbruikers; voor 2024 was het normrendement 6,8%.

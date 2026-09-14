@@ -32,7 +32,7 @@ Per 1 januari wordt de accijnskorting op benzine die het kabinet in 2022 invoerd
 Mobiliteitsjournalistiek-frame (BNR-mobiliteitsexpert): benadrukt de last voor automobilisten en grenseffecten; relativerend tegengeluid van een Kamerlid (ChristenUnie) dat de opbrengst juist verdedigt als noodzakelijk voor het openbaar vervoer.
 
 ## Toetsing & blinde vlekken
-- Dit gaat over brandstofaccijns (mobiliteit), niet over de energierekening (gas/elektriciteit) in de zin van dit project; daarom bewust geen koppeling aan [[energiebelasting]], dat in deze wiki specifiek gas/elektriciteit betreft. Randgeval van de scope: relevant voor huishoudfinanciën/energiekosten in brede zin, maar een ander mechanisme dan de kernrekening.
+- Dit gaat over brandstofaccijns (mobiliteit), niet over de energierekening (gas/elektriciteit) in de zin van dit project; daarom bewust geen koppeling aan energiebelasting, dat in deze wiki specifiek gas/elektriciteit betreft. Randgeval van de scope: relevant voor huishoudfinanciën/energiekosten in brede zin, maar een ander mechanisme dan de kernrekening.
 - `raw/modellen/` is nog leeg.
 
 ## Betrokken stakeholders
