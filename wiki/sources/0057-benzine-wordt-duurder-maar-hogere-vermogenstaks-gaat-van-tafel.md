@@ -3,7 +3,7 @@ id: 57
 titel: "Benzine wordt duurder, maar hogere vermogenstaks gaat van tafel"
 uitgever: "BNR"
 type: "nieuws"
-auteur: "Leendert Beekman"
+auteur: ""
 datum: ""
 themas: ["Beprijzing (belasting/heffing)"]
 mechanismen: []
